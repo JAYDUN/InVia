@@ -1,0 +1,67 @@
+.contact .InVia-card{
+    background-color: #f8f8f8;
+    padding: 35px 0;
+    transition: all 0.3s ease-in-out;
+    margin-bottom: 45px;
+    height:200px;
+}
+
+.contact .InVia-card .InVia-card-header{
+    margin-bottom: 5px;
+    font-size: 21px;
+    color: #51c2b9;
+}
+.contact .InVia-card .InVia-card-content h3{
+    letter-spacing: 2px;
+
+}
+.contact .InVia-card .InVia-card-content h3:after{
+    top: 20px;
+}
+.contact .InVia-card .InVia-card-content p{
+    font-size: 18px;
+    word-wrap:break-word;
+}
+
+.contact{
+    min-height:726px;
+
+}
+.contactinfo{
+    text-align:center;
+}
+
+.footer{
+    background-color: #202020;
+    text-align: center;
+    padding: 60px 0;
+}
+
+.footer p{
+    font-size: 21px;
+    color: #fff;
+    margin-bottom: 0;
+}
+
+.contact-row{
+    margin-left:310px;
+}
+.wechat-customer-service{
+    background-image: url(../img/wechat-customer-service.jpg);
+    background-repeat:no-repeat;
+    background-size:100% 100%;
+    -moz-background-size: 100% 100%;
+    height:200px;
+}
+.wechat-official-account{
+    background-image: url(../img/wechat-official-account.jpg);
+    background-repeat:no-repeat;
+    background-size:100% 100%;
+    -moz-background-size: 100% 100%;
+    height:200px;
+}
+.wechatlogo{
+   width:50px;
+    height:50px;
+    margin-top:-2px;
+}

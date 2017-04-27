@@ -1,0 +1,81 @@
+
+header{
+    background-image: url(../img/invia-index.jpg);
+    background-repeat:no-repeat;
+    background-size:100% 100%;
+    -moz-background-size: 100% 100%;
+    min-height:676px;
+    width:100%;
+    margin:0;
+    padding:0;
+}
+.container{
+    margin:0;
+    padding:0;
+    width:auto;
+    border:0 none;
+
+}
+.intro-box{
+    height: 100vh;
+    display: table;
+    text-align: center;
+    width: 100%;
+
+
+
+}
+.intro{
+    display: table-cell;
+    vertical-align: middle;
+    color: white;
+
+}
+.header-btn{
+    border-color: #fff;
+    color: #fff;
+}
+.about{
+    background-color: #f8f8f8;
+    min-height:726px;
+    width:100%;
+    height:100%;
+}
+.section{
+    padding: 100px 0;
+}
+.title{
+    position: relative;
+    margin-bottom: 100px;
+    text-align:center;
+}
+.title:after{
+    content: '';
+    height: 5px;
+    width: 40px;
+    background-color: #62aa94;
+    position: absolute;
+    top: 81px;
+    left: calc(50% - 20px);
+}
+.aboutspan{
+    position: relative;
+    text-align:right;
+    padding:50px;
+    margin-right:20px;
+}
+.aboutbtn1{
+    text-align:center;
+}
+
+.aboutbtn2{
+    border-color: black;
+    color: black;
+    margin:auto;
+
+}
+.aboutbtn2:hover{
+    background-color: #67f5ff;
+}
+
+
