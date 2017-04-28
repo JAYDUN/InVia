@@ -42,6 +42,7 @@ ul li{
 .nav-bgcolor{
     background-color: #02e1ff;
     height:60px;
+    opacity:0.9;
 
 }
 .logo{
