@@ -8,7 +8,7 @@ var Footer = React.createClass({
                 <section id="contact" className="contact section">
                         <h2 className="title">联系我们</h2>
                         <div className="row contact-row">
-                            <div className="col-sm-3">
+                            <div className="col-sm-4">
                                 <div className="InVia-card">
                                     <div className="InVia-card-header">
                                         <span className="" ></span>
@@ -21,7 +21,7 @@ var Footer = React.createClass({
                                     </div>
                                 </div>
                             </div>
-                            <div className="col-sm-3">
+                            <div className="col-sm-4">
                                 <div className="InVia-card">
                                     <div className="InVia-card-header">
                                         <span className="" ></span>
@@ -38,7 +38,7 @@ var Footer = React.createClass({
                         </div>
 
                     <div className="row contact-row">
-                        <div className="col-sm-3 wechat-border">
+                        <div className="col-sm-4 wechat-border">
 
                             <div className="InVia-card-content contactinfo">
                                 <h3><img src="../img/wechat.jpeg" className="wechatlogo"></img>微信公众号</h3>
@@ -47,7 +47,7 @@ var Footer = React.createClass({
                             </div>
 
                         </div>
-                        <div className="col-sm-3 wechat-border">
+                        <div className="col-sm-4 wechat-border">
 
                             <div className="InVia-card-content contactinfo">
                                 <h3><img src="../img/wechat.jpeg" className="wechatlogo"></img>微信客服</h3>
