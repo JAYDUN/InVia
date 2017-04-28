@@ -40,9 +40,9 @@ ul li{
     list-syle:none;
 }
 .nav-bgcolor{
-    background-color: #02e1ff;
+    background-color: grey;
     height:60px;
-    opacity:0.9;
+    opacity:0.95;
 
 }
 .logo{
