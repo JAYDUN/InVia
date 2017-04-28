@@ -1,10 +1,10 @@
 
 header{
-    background-image: url(../img/invia-index.jpg);
+    background-image: url(../img/invia-index5.jpg);
     background-repeat:no-repeat;
-    background-size:100% 100%;
-    -moz-background-size: 100% 100%;
-    min-height:676px;
+    background-size:cover;
+    /*-moz-background-size: 100% 100%;*/
+    min-height:376px;
     width:100%;
     margin:0;
     padding:0;
@@ -28,8 +28,14 @@ header{
 .intro{
     display: table-cell;
     vertical-align: middle;
-    color: white;
+    color: black;
 
+}
+.intro a{
+    color:black;
+}
+.intro a:hover{
+    background-color:#67f5ff;
 }
 .header-btn{
     border-color: #fff;
@@ -71,8 +77,8 @@ header{
 .aboutbtn2{
     border-color: black;
     color: black;
-    margin:auto;
 
+    margin-top:100px;
 }
 .aboutbtn2:hover{
     background-color: #67f5ff;

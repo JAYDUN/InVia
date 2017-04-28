@@ -30,12 +30,19 @@ ul li{
 .nav-col{
     margin-top:10px;
     text-decoration: none;
+    border:0 none;
+    padding:0;
+}
+.nav-col ul{
+    border:none;
 }
 .invia-nav{
     list-syle:none;
 }
 .nav-bgcolor{
-    background-color: white;
+    background-color: #02e1ff;
+    height:60px;
+
 }
 .logo{
     width:40px;
@@ -82,7 +89,7 @@ ul li{
 .nav-mid a:hover{
     text-decoration: none;
     cursor:pointer;
-    color: #23d8ff;
+    color:white;
 }
 
 

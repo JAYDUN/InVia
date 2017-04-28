@@ -26,7 +26,7 @@ var Index = React.createClass({
                                 <h4>
                                     知途伴学是一家由英属哥伦比亚大学(University of British Columbia)不同毕业生成立的“良师助组织”，是在加拿大注册的教育益友互公司。主要负责为高中留学生提供一对一的伴学服务，与各类线下活动，其中内容包括心理陪伴、营养饮食、文化生活、升学义工等等。
                                 </h4>
-                                <h3 className="aboutspan">Invia-CEO Kevin Wang</h3>
+                                {/*<h3 className="aboutspan">Invia-CEO Kevin Wang</h3>*/}
                                 <div className="aboutbtn1">
                                     <a className="btn aboutbtn2" href="../html/about.html">Read More</a>
                                 </div>
