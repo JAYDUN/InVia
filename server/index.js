@@ -1,15 +1,11 @@
-var app = require('express')();
-var mongoose = require('mongoose');
-var cors = require('cors');
-var bodyParser = require('body-parser');
-var http = require('http').Server(app);
-var io = require('socket.io')(http);
+var express = require("express");
 var path = require('path');
+var app = express();
 
-mongoose.connect('mongodb://localhost/Invia');
+app.set('port', 8080);
+app.use(express.static(path.join(__dirname, '../client')));
 
-
-
-http.listen(3000, function(){
-    console.log('listening on *:3000');
-});
+var server = app.listen(app.get('port'), function () {
+    var port = server.address().port;
+    console.log('listening on port ' + port);
+})
