@@ -115,7 +115,7 @@ class About extends React.Component {
                                 <div className="InVia-card-content contactinfo">
                                     <h3>Address</h3>
                                     <p>
-                                        8766 Mckim Way Unit 2050, Richmond, BC, Canada
+                                        8766 McKim Way Unit 2015, Richmond, BC, Canada
                                     </p>
                                 </div>
                             </div>
