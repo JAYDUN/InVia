@@ -6360,7 +6360,7 @@ var About = function (_React$Component) {
                                     _react2.default.createElement(
                                         'p',
                                         null,
-                                        '8766 Mckim Way Unit 2050,Richmond,BC,Canada'
+                                        '8766 Mckim Way Unit 2050, Richmond, BC, Canada'
                                     )
                                 )
                             )
@@ -6383,7 +6383,7 @@ var About = function (_React$Component) {
                                     _react2.default.createElement(
                                         'p',
                                         null,
-                                        'info@in-via.ca'
+                                        'invia.edu@gmail.com'
                                     )
                                 )
                             )
