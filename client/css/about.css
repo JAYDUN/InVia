@@ -1,0 +1,98 @@
+#about_InVia{
+    background-color: white;
+}
+.about-header{
+    background-image: url(../img/about-img.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    /*-moz-background-size: 100% 100%;*/
+    min-height:376px;
+    width:100%;
+    margin:0;
+    padding:0;
+    opacity:0.9;
+    background-position: center;  /* Internet Explorer 7/8 */
+
+}
+
+.about-header-font{
+    color:white;
+}
+.about-header-font h1{
+    font-size:50px;
+    margin-bottom:50px;
+
+}
+
+.about_invia_left{
+    float:left;
+    width:50%;
+
+}
+
+.about_invia_right{
+    float:left;
+    width:50%;
+
+}
+.about_invia_image{
+    width:400px;
+    height:400px;
+    margin-left: 20%;
+    margin-top:-5%;
+}
+.about_invia_right_content{
+    margin-right:20%;
+}
+.about-team{
+
+    width:100%;
+}
+.about-team-frame{
+    width:22%;
+    float:left;
+}
+.about-team-photo{
+    width:200px;
+    height:200px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-left: 40%;
+    background-repeat:no-repeat;
+    background-size:cover;
+    /*background-size: 50% 50%;*/
+    background-position: center;  /* Internet Explorer 7/8 */
+    background-position: 0 -10px;
+    -webkit-background-size: cover;/* 兼容Webkit内核浏览器如Chrome和Safari */
+    -o-background-size: cover;/* 兼容Opera */
+
+}
+.bgimg1{
+    background-image: url(../img/photo-kevin.JPG);
+
+}
+.bgimg2{
+    background-image: url(../img/bgimg222.png);
+    background-position: 0 0px;
+
+
+}
+.bgimg3{
+    background-image: url(../img/bgimg3.JPG);
+    transform: rotate(90deg);
+    -ms-transform: rotate(90deg);             /* IE 9 */
+    -webkit-transform: rotate(90deg);      /* Safari and Chrome */
+    -o-transform: rotate(90deg);              /* Opera */
+    -moz-transform: rotate(90deg);         /* Firefox */
+    background-position: 0 0px;
+
+}
+.bgimg4{
+    background-image: url(../img/bgimg4.JPG);
+}
+.about-team-frame p{
+    margin-left:55%;
+    margin-top:20px;
+    text-align: center;
+    font-size: large;
+}

@@ -25,7 +25,10 @@ ul li{
     left:0;
     z-index:1030;
     text-decoration: none;
-
+    background-color: snow;
+    height:60px;
+    opacity:0.6;
+    box-shadow: 0 4px 6px #666;
 }
 .nav-col{
     margin-top:10px;
@@ -36,15 +39,15 @@ ul li{
 .nav-col ul{
     border:none;
 }
-.invia-nav{
-    list-syle:none;
-}
-.nav-bgcolor{
-    background-color: grey;
-    height:60px;
-    opacity:0.95;
+/*.invia-nav{*/
+    /*list-syle:none;*/
+/*}*/
+/*.nav-bgcolor{*/
+    /*background-color: snow;*/
+    /*height:60px;*/
+    /*opacity:0.95;*/
 
-}
+/*}*/
 .logo{
     width:40px;
     height:40px;
@@ -64,24 +67,27 @@ ul li{
 
 }
 .nav{
-    display:inline-block;
+    display:inline;
     margin:0;
     border:none;
-
-
-
 }
 
 
 .nav-mid{
     position:relative;
-
     text-align:center;
+    margin-right:40px;
+    /*list-syle:none;*/
+    display:inline;
+    float:right;
 
 }
 .nav-mid li{
+    font-size:17px;
+}
+.nav-mid li{
     display:inline;
-    margin-right:40px;
+    margin-right:30px;
 
 }
 .nav-mid a{
@@ -90,7 +96,6 @@ ul li{
 .nav-mid a:hover{
     text-decoration: none;
     cursor:pointer;
-    color:white;
+    color:deepskyblue;
 }
-
 

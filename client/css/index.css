@@ -1,14 +1,24 @@
-
-header{
-    background-image: url(../img/invia-index5.jpg);
+html, body, h1, h2, h3, h4, ul, ol, li, p, a {
+    font-family: "Arial","Microsoft YaHei","黑体","宋体",sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
+.index-header{
+    background-image: url(../img/invia-index1.jpg);
     background-repeat:no-repeat;
     background-size:cover;
     /*-moz-background-size: 100% 100%;*/
+    /*background-size:100% 100%;*/
+    background-position: center;  /* Internet Explorer 7/8 */
+
     min-height:376px;
     width:100%;
     margin:0;
     padding:0;
 }
+.index-header img{
+    width:100%;
+}
+
 .container{
     margin:0;
     padding:0;
@@ -28,11 +38,17 @@ header{
 .intro{
     display: table-cell;
     vertical-align: middle;
-    color: black;
+    color: ghostwhite;
 
 }
+.intro h1{
+    margin-bottom: 40px;
+}
+.intro h3{
+    margin-bottom: 120px;
+}
 .intro a{
-    color:black;
+    color:ghostwhite;
 }
 .intro a:hover{
     background-color:#67f5ff;
@@ -41,6 +57,7 @@ header{
     border-color: #fff;
     color: #fff;
 }
+
 .about{
     background-color: #f8f8f8;
     min-height:726px;
