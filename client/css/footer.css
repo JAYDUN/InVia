@@ -2,11 +2,14 @@
     background-color: #f8f8f8;
     padding: 35px 0;
     transition: all 0.3s ease-in-out;
-
     height:200px;
     text-align:center;
+    margin:0 auto;
     margin-top:45px;
+    width:80%;
 }
+
+
 
 .contact .InVia-card .InVia-card-header{
     margin-bottom: 5px;
@@ -37,7 +40,9 @@ footer{
     background-color: #202020;
     text-align: center;
     height:50px;
-
+    position:absolute;
+    bottom:0;
+    width:100%;
 
 }
 
@@ -49,10 +54,17 @@ footer{
 }
 
 .contact-row{
-    margin-left:24%;
+    /*margin-left:24%;*/
     text-align:center;
+    width:60%;
+    margin:0 auto;
 
 }
+.wechat-border{
+    width:50%;
+    margin:0 auto;
+}
+
 .wechat-customer-service{
     /*background-image: url(../img/wechat-service.png);*/
     /*background-repeat:no-repeat;*/
@@ -82,3 +94,45 @@ footer{
     margin-top:-5px;
 }
 
+/*media queries*/
+
+@media screen and (max-width:900px){
+    .contact-row{
+        /*margin-left:24%;*/
+        text-align:center;
+        width:100%;
+        margin:0 auto;
+
+    }
+    .InVia-card,.wechat-border {
+        width:100%;
+        margin:0 auto;
+    }
+    .footer p{
+        font-size: 14px;
+        color: #fff;
+        margin-top:15px;
+    }
+
+}
+@media screen and (max-width:350px){
+    .contact-row{
+        /*margin-left:24%;*/
+        text-align:center;
+        width:100%;
+        margin:0 auto;
+
+    }
+
+    .InVia-card,.wechat-border {
+        width:100%;
+        margin:0 auto;
+    }
+    .footer p{
+        font-size: 12px;
+        color: #fff;
+        margin-top:15px;
+    }
+
+
+}

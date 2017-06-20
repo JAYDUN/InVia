@@ -52,10 +52,10 @@ class Index extends React.Component {
         return  (
             <div className="container">
                 <header className="header index-header">
-                    <div className="row">
+                    <div className="row about-container">
                         <div className="intro-box" >
                             <div className="intro"  >
-                                <h1>欢迎来到知途伴学</h1>
+                                <h1>Welcome to In Via</h1>
                                 <h3>教诲是条漫长的道路，榜样是条捷径。—— 塞内加
                                 </h3>
                                 {/*<a className="btn header-btn" href="#about">Learn More</a>*/}
@@ -66,11 +66,13 @@ class Index extends React.Component {
                 <section id="about" className="about section">
                     <div className="container">
                         <div className="row">
-                            <div className="col-sm-8 col-sm-offset-2">
-                                <h2 className="title">关于知途伴学</h2>
+                            <div className="col-sm-8 col-sm-offset-2 home_intro">
+                                <h2 className="title">About In Via</h2>
                                 <h4>
-                                    知途伴学旨在加拿大搭起一个注重“思辨精神表达”、“积极价值观建立”、“良好生活习惯培养”、以及“负面情绪管理与疏导”的平台。秉承知行合一的原则，带领低龄中国留学生群体克服尴尬与恐惧，走出固有的舒适圈，帮助他们找到自我，设立自己的人生目标，规划未来发展发向，培养合理的消费意识与金钱管理能力， 懂得如何处理人际关系等， 并且在他们经历着身处异国他乡心理上的跌宕起伏之时，像大哥哥大姐姐一样陪伴他们运用有效的应对之策解决问题。                                </h4>
+                                    知途伴学旨在加拿大搭起一个注重“思辨精神表达”、“积极价值观建立”、“良好生活习惯培养”、以及“负面情绪管理与疏导”的平台。秉承知行合一的原则，带领低龄中国留学生群体克服尴尬与恐惧，走出固有的舒适圈，帮助他们找到自我，设立自己的人生目标，规划未来发展发向，培养合理的消费意识与金钱管理能力， 懂得如何处理人际关系等， 并且在他们经历着身处异国他乡心理上的跌宕起伏之时，像大哥哥大姐姐一样陪伴他们运用有效的应对之策解决问题。
                                 {/*<h3 className="aboutspan">Invia-CEO Kevin Wang</h3>*/}
+                                {/*In Via’s mission is to establish a community for international students studying abroad, focusing on inculcating important values and qualities, teaching them how to manage their emotions, as well as helping them express themselves and communicate more effectively. We aim to lead students out of their comfort zones and fears, help them find themselves, as well as aid them in choosing their own direction in life. We wish not only to be their guide on their academic journey, but also to be their closest friend.*/}
+                                </h4>
                                 <div className="aboutbtn1">
                                     <Link to="/about" className="btn aboutbtn2">Read More</Link>
                                 </div>
@@ -79,7 +81,7 @@ class Index extends React.Component {
                     </div>
                 </section>
                 <section id="contact" className="contact section">
-                    <h2 className="title">联系我们</h2>
+                    <h2 className="title">Contact Us</h2>
 
                     <div className="row contact-row">
                         <div className="col-sm-4 wechat-border">
@@ -104,7 +106,7 @@ class Index extends React.Component {
                         </div>
                     </div>
                     <div className="row contact-row">
-                        <div className="col-sm-4">
+                        <div className="col-sm-4 wechat-border">
                             <div className="InVia-card">
                                 <div className="InVia-card-header">
                                     <span className="" ></span>
@@ -117,7 +119,7 @@ class Index extends React.Component {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-sm-4">
+                        <div className="col-sm-4 wechat-border">
                             <div className="InVia-card">
                                 <div className="InVia-card-header">
 

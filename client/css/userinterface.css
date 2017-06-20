@@ -8,3 +8,30 @@
 .panel{
     text-align: center;
 }
+.namenode ul{
+    overflow: hidden;
+    width:100%;
+}
+.namenode li{
+    display:inline;
+    margin-right:30px;
+    width:15%;
+    float:left;
+    text-align: center;
+    padding-top:20px;
+}
+.namenode ul li button{
+  margin-top:-10px;
+}
+.namenode_title ul{
+    overflow: hidden;
+    width:100%;
+}
+.namenode_title li{
+    display:inline;
+    margin-right:30px;
+    width:15%;
+    float:left;
+    text-align: center;
+
+}

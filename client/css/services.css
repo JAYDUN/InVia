@@ -9,3 +9,74 @@
     padding:0;
     opacity:0.9;
 }
+.services_container{
+    min-height: 666px;
+}
+.services_subcontainer{
+    border:1px solid silver;
+    margin:0 auto;
+    margin-left:10%;
+    text-align: center;
+    width:80%;
+    height:333px;
+    border-radius: 15px;
+    box-shadow: 0 2px 3px #666;
+
+
+}
+.services_container_left{
+    background-image: url(../img/service1.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    border-top-left-radius:15px;
+    border-bottom-left-radius: 15px;
+    height:100%;
+    float:left;
+    width:30%;
+    min-height:333px;
+    background-position: center;
+}
+.services_container_right{
+    float:left;
+    width:70%;
+
+    border-top-right-radius:15px;
+    border-bottom-right-radius: 15px;
+    height:100%;
+    min-height:333px;
+
+
+}
+.services_container_right_header{
+    height:20%;
+    width:100%;
+
+}
+.services_container_right_header h3{
+    font-weight:bold;
+    /*text-align: center;*/
+}
+.services_container_right_header h5{
+     font-weight:bold;
+    /*text-align: center;  */
+ }
+
+.services_container_right_body_header h4{
+    text-align: left;
+    float:left;
+    width:100%;
+    display:block;
+    font-weight:bold;
+    word-wrap:break-word ;
+
+}
+.services_container_right_body_body h5{
+    text-align: left;
+    margin-left: 15%;
+    float:left;
+    /*width:100%;*/
+    display:block;
+    font-weight:bold;
+    word-wrap:break-word ;
+    word-break: break-all;
+}

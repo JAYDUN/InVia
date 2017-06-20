@@ -81,16 +81,14 @@ import ReactDOM from 'react-dom';
 class Footer extends React.Component {
     render () {
         return  (
-            <div className="container">
 
                 <footer className="footer">
-                    <div className="container">
+                    {/*<div className="container">*/}
 
                                 <p>Copyright 2017 知途伴学 In Via All Rights Reserved</p>
-                            </div>
+                            {/*// </div>*/}
 
                 </footer>
-            </div>
         )
     }
 }

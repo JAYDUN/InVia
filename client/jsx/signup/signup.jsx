@@ -2,10 +2,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import {Link} from 'react-router-dom';
-import { confirm } from './confirm';
+import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import {Redirect,browserHistory } from 'react-router';
+import app from '../app';
+import { confirm } from '../confirm';
+import {history} from '../app';
+
 class Signup extends React.Component {
-    constructor(props){
-        super(props);
+    constructor(props, context){
+        super(props, context);
        this.state= {
             email:"",
             password:"",
@@ -32,14 +37,17 @@ class Signup extends React.Component {
             console.log(error)
         }),
         confirm('Congratulations! You successfully created an account!').then(() => {
+            // history.push('/userinterface');
+            // window.location= "/userinterface";
+            history.push('/userinterface');
+            history.replace('/userinterface');
 
             console.log('proceed!') ;
         }, () => {
             console.log('cancel!');
         });
-
-        return state;
-
+        history.push('/userinterface');
+        history.replace('/userinterface')
 }
 
     handleChange(event) {
@@ -118,7 +126,7 @@ class Signup extends React.Component {
                                  </div>
                                 <div className="form-group">
                                     <div className="col-sm-5 column">
-                                        <button type="submit" className="btn btn-info active login_btn" ><Link to="/userinterface">Sign Up</Link></button>
+                                        <button type="submit" className="btn btn-info active login_btn" >Sign Up</button>
                                     </div>
                                 </div>
                             </form>

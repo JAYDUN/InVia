@@ -1,13 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Nav from './nav';
+import Nav from '../homepage/nav';
 import Login from './login';
-import Footer from './footer';
+import Footer from '../footer';
 
 class Login_Layout extends React.Component {
     render () {
         return (
-            <div>
+            <div >
                 <Nav/>
                 <Login/>
                 <Footer/>

@@ -1,15 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Nav from './nav';
-import Services from './services';
-import Footer from './footer';
+import Nav from '../homepage/nav';
+import About from './about';
+import Footer from '../footer';
 
-class Services_Layout extends React.Component {
+class About_Us_Layout extends React.Component {
     render () {
         return (
             <div>
                 <Nav/>
-                <Services/>
+                <About/>
                 <Footer/>
             </div>
 
@@ -17,4 +17,4 @@ class Services_Layout extends React.Component {
     }
 }
 
-export default Services_Layout
+export default About_Us_Layout

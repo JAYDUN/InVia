@@ -1,11 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Nav from './nav';
-import About from './about';
-import {Redirect} from 'react-router';
+import Nav from './homepage/nav';
+import About from './aboutUs/about';
+import {Redirect,browserHistory } from 'react-router';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
-import Index_Layout from './index-layout';
-import About_Us_Layout from './about_us_layout';
+import createBrowserHistory from 'history/createBrowserHistory';
+
+import Index_Layout from './homepage/index-layout';
+import About_Us_Layout from './aboutUs/about_us_layout';
 import Routes from './routes';
 // class App extends React.Component {
 //     render () {
@@ -19,9 +21,9 @@ import Routes from './routes';
 //         );
 //     }
 // }
-
+export const history = createBrowserHistory();
 const app = (
-    <Router history="{createBrowserHistory()">
+    <Router history={history}>
     <div>
         <Redirect from="/" to="/index"/>
         {Routes}
@@ -29,4 +31,5 @@ const app = (
     </div>
     </Router>
 )
+
 ReactDOM.render(app, document.getElementById('app'));

@@ -2,28 +2,25 @@ body{
     padding:0;
     margin:0;
 }
+
+
 ul li{
     list-style-type: none;
-    text-decoration: none;
+    /*text-decoration: none;*/
 
 }
-.col-md-12{
+.col-md-12 .column ul li{
     text-decoration: none;
 }
-.column{
-    text-decoration: none;
-}
+
 .navcontainer{
 
-    margin:0px;
-    border:0 none;
-    padding:0;
     display:inline;
     position:fixed;
     top:0;
     right:0;
     left:0;
-    z-index:1030;
+    z-index:1;
     text-decoration: none;
     background-color: snow;
     height:60px;
@@ -31,12 +28,13 @@ ul li{
     box-shadow: 0 4px 6px #666;
 }
 .nav-col{
-    margin-top:10px;
+    height:100%;
+    /*background-color: black;*/
     text-decoration: none;
     border:0 none;
-    padding:0;
 }
 .nav-col ul{
+    margin-top:0.8%;
     border:none;
 }
 /*.invia-nav{*/
@@ -52,20 +50,7 @@ ul li{
     width:40px;
     height:40px;
 }
-.nav a{
 
-    margin-bottom:-4px;
-}
-
-
-
-.container{
-    margin:0;
-    padding:0;
-    width:auto;
-    border:0 none;
-
-}
 .nav{
     display:inline;
     margin:0;
@@ -73,29 +58,101 @@ ul li{
 }
 
 
-.nav-mid{
+
+.nav-right{
     position:relative;
     text-align:center;
-    margin-right:40px;
+    /*margin-right:40px;*/
     /*list-syle:none;*/
-    display:inline;
+
     float:right;
 
 }
-.nav-mid li{
+.nav-right li{
     font-size:17px;
-}
-.nav-mid li{
     display:inline;
     margin-right:30px;
-
 }
-.nav-mid a{
+
+.nav-right a{
     color:black;
 }
-.nav-mid a:hover{
+.nav-right a:hover{
     text-decoration: none;
     cursor:pointer;
     color:deepskyblue;
 }
 
+                            /*media queries*/
+
+
+@media screen and (max-width:800px){
+
+    .logo{
+        margin-left: -40px;
+        margin-top:2px;
+        width:40px;
+        height:40px;
+    }
+    .nav-right li{
+        font-size:24px;
+
+    }
+    .nav-col ul{
+        margin-top:8px;
+    }
+}
+
+@media screen and (max-width:500px){
+
+    .logo{
+        margin-left: -40px;
+        margin-top:2px;
+        width:40px;
+        height:40px;
+    }
+    .nav-right li{
+        font-size:18px;
+        margin-right:10px;
+
+
+    }
+    .nav-col ul{
+        margin-top:10px;
+    }
+}
+@media screen and (max-width:400px){
+
+    .logo{
+        margin-left: -40px;
+        margin-top:-5px;
+        width:40px;
+        height:40px;
+    }
+    .nav-right li{
+        font-size:15px;
+
+    }
+    .nav-col ul{
+        margin-top:5px;
+    }
+}
+@media screen and (min-width:1500px){
+    .navcontainer{
+        height:120px;
+    }
+
+    .logo{
+        margin-left: -40px;
+        margin-top:5px;
+        width:80px;
+        height:80px;
+    }
+    .nav-right li{
+        font-size:35px;
+
+    }
+    .nav-col ul{
+        margin-top:15px;
+    }
+}

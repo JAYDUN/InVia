@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Footer from './footer';
+import Footer from '../footer';
 
 class About extends React.Component {
     render () {
@@ -25,8 +25,11 @@ class About extends React.Component {
                                 <h2 className="title">关于知途伴学</h2>
                                 {/*<h3 className="aboutspan">Invia-CEO Kevin Wang</h3>*/}
                             </div>
+                            <div className="about_invia_intro">
                             <div className="about_invia_left">
-                                <a><img className="about_invia_image" src="../img/invia-logo.jpg"/></a>
+                                <div className="about_invia_image_container">
+                                <a   ><img className="about_invia_image" src="../img/invia-logo.jpg"/></a>
+                                </div>
                             </div>
                             <div className="about_invia_right">
                                 <div className="about_invia_right_content">
@@ -42,6 +45,7 @@ class About extends React.Component {
                                 </div>
                             </div>
                         </div>
+                    </div>
                     </div>
                 </section>
                 <section id="About_InVia_Team" className="about section">
@@ -82,7 +86,7 @@ class About extends React.Component {
                     </div>
                 </section>
                 <section id="contact" className="contact section">
-                    <h2 className="title">联系我们</h2>
+                    <h2 className="title">Contact Us</h2>
 
                     <div className="row contact-row">
                         <div className="col-sm-4 wechat-border">
@@ -107,7 +111,7 @@ class About extends React.Component {
                         </div>
                     </div>
                     <div className="row contact-row">
-                        <div className="col-sm-4">
+                        <div className="col-sm-4 wechat-border">
                             <div className="InVia-card">
                                 <div className="InVia-card-header">
                                     <span className="" ></span>
@@ -120,7 +124,7 @@ class About extends React.Component {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-sm-4">
+                        <div className="col-sm-4 wechat-border">
                             <div className="InVia-card">
                                 <div className="InVia-card-header">
 

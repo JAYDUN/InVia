@@ -2,7 +2,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import {Link} from 'react-router-dom';
-import Auth from './Auth';
+import Auth from '../Auth';
 
 
 class Login extends React.Component {
@@ -119,7 +119,7 @@ class Login extends React.Component {
 
     render () {
         return  (
-            <div className="container ">
+            <div className="container">
             <div className="login_container">
             <header className="login_header">
                 <h3>Sign In</h3> or  <Link to="/signup">Sign Up</Link>
@@ -140,7 +140,7 @@ class Login extends React.Component {
                                 </div>
                             </div>
                             <div className="login-forgot">
-                                <a>忘记密码了?</a>
+                                <a>Forgot your password?</a>
                             </div>
                             <div className="form-group">
                                 <div className="col-sm-offset-2 col-sm-10">

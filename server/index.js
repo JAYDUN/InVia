@@ -91,6 +91,27 @@ app.post('/new', function(req, res) {
         res.send(doc);
     });
 });
+app.get('/student', function(req, res) {
+    Student.find({role:"mentor"}).select('email firstName lastName age').exec(function(err, doc) {
+        res.send(doc);
+    })
+});
+app.get('/all', function(req, res) {
+    Student.find().select('email firstName lastName age role').exec(function(err, doc) {
+        res.send(doc);
+    })
+});
+app.post('/delete', function(req, res) {
+    Student.remove({_id: req.body._id}, function(err, doc) {
+        res.send(doc)
+    })
+});
+app.get('/student/:id', function(req, res) {
+    Student.findById(req.params.id, function(err, doc) {
+        res.send(doc);
+    });
+});
+
 app.set('port', 8080);
 app.use(express.static(path.join(__dirname, '../client')));
 

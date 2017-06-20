@@ -1,0 +1,37 @@
+.all_namenode ul{
+    overflow: hidden;
+    width:100%;
+}
+.all_namenode li{
+    display:inline;
+    margin-right:30px;
+    width:13%;
+    float:left;
+    text-align: center;
+    padding-top:20px;
+}
+.all_namenode ul li button{
+    margin-top:-10px;
+}
+.all_namenode_title ul{
+    overflow: hidden;
+    width:100%;
+}
+.all_namenode_title li{
+    display:inline;
+    margin-right:30px;
+    width:13%;
+    float:left;
+    text-align: center;
+
+}
+.Admin_navitem{
+    text-align: center;
+}
+.mentorAccount{
+    margin-top:200px;
+}
+.mentor_body{
+    margin-top:10%;
+    margin-left:10%;
+}
