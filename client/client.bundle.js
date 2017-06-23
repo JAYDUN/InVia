@@ -2665,6 +2665,42 @@ var Nav = function (_React$Component) {
                                     { to: '/about' },
                                     'AboutInvia'
                                 )
+                            ),
+                            _react2.default.createElement(
+                                'li',
+                                null,
+                                _react2.default.createElement(
+                                    _reactRouterDom.Link,
+                                    { to: '/login' },
+                                    'LogIn'
+                                )
+                            ),
+                            _react2.default.createElement(
+                                'li',
+                                null,
+                                _react2.default.createElement(
+                                    _reactRouterDom.Link,
+                                    { to: '/signup' },
+                                    'SignUp'
+                                )
+                            ),
+                            _react2.default.createElement(
+                                'li',
+                                null,
+                                _react2.default.createElement(
+                                    _reactRouterDom.Link,
+                                    { to: '/userinterface' },
+                                    'UserInterface'
+                                )
+                            ),
+                            _react2.default.createElement(
+                                'li',
+                                null,
+                                _react2.default.createElement(
+                                    _reactRouterDom.Link,
+                                    { to: '/admininterface' },
+                                    'AdminInterface'
+                                )
                             )
                         )
                     )
