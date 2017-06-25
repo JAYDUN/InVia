@@ -52,7 +52,7 @@ class Index extends React.Component {
         return  (
             <div className="container">
                 <header className="header index-header">
-                    <div className="row about-container">
+                    <div className="row ">
                         <div className="intro-box" >
                             <div className="intro"  >
                                 <h1>Welcome to In Via</h1>

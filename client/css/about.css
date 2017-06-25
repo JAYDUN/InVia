@@ -22,7 +22,12 @@
 .about-header-font h1{
     font-size:4em;
     margin-bottom:1em;
+    color:white;
+    git remote set-url origin
 
+}
+.about-header-font h3{
+    color:white;
 }
 .about_invia_intro{
     width:80%;

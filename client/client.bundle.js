@@ -2665,42 +2665,6 @@ var Nav = function (_React$Component) {
                                     { to: '/about' },
                                     'AboutInvia'
                                 )
-                            ),
-                            _react2.default.createElement(
-                                'li',
-                                null,
-                                _react2.default.createElement(
-                                    _reactRouterDom.Link,
-                                    { to: '/login' },
-                                    'LogIn'
-                                )
-                            ),
-                            _react2.default.createElement(
-                                'li',
-                                null,
-                                _react2.default.createElement(
-                                    _reactRouterDom.Link,
-                                    { to: '/signup' },
-                                    'SignUp'
-                                )
-                            ),
-                            _react2.default.createElement(
-                                'li',
-                                null,
-                                _react2.default.createElement(
-                                    _reactRouterDom.Link,
-                                    { to: '/userinterface' },
-                                    'UserInterface'
-                                )
-                            ),
-                            _react2.default.createElement(
-                                'li',
-                                null,
-                                _react2.default.createElement(
-                                    _reactRouterDom.Link,
-                                    { to: '/admininterface' },
-                                    'AdminInterface'
-                                )
                             )
                         )
                     )
@@ -22015,7 +21979,7 @@ var Index = function (_React$Component) {
                     { className: 'header index-header' },
                     _react2.default.createElement(
                         'div',
-                        { className: 'row about-container' },
+                        { className: 'row ' },
                         _react2.default.createElement(
                             'div',
                             { className: 'intro-box' },

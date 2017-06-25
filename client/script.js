@@ -10,9 +10,5 @@ $(document).ready(function() {
     //     }
     // });
 
-    // $('#loading').remove();
-
-    // $("#loading").delay(2000).remove();
-    // $("#loading").fadeOut(1000);
 
 });

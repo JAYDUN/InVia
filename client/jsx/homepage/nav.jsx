@@ -40,18 +40,18 @@ class Nav extends React.Component {
 
                         {/*<MenuItem eventKey="4.4">Separated link</MenuItem>*/}
                     {/*</NavDropdown>*/}
-                    <li>
-                        <Link to="/login">LogIn</Link>
-                    </li>
-                    <li>
-                        <Link to="/signup">SignUp</Link>
-                    </li>
-                    <li>
-                    <Link to="/userinterface">UserInterface</Link>
-                     </li>
-                    <li>
-                        <Link to="/admininterface">AdminInterface</Link>
-                    </li>
+                    {/*<li>*/}
+                        {/*<Link to="/login">LogIn</Link>*/}
+                    {/*</li>*/}
+                    {/*<li>*/}
+                        {/*<Link to="/signup">SignUp</Link>*/}
+                    {/*</li>*/}
+                    {/*<li>*/}
+                    {/*<Link to="/userinterface">UserInterface</Link>*/}
+                     {/*</li>*/}
+                    {/*<li>*/}
+                        {/*<Link to="/admininterface">AdminInterface</Link>*/}
+                    {/*</li>*/}
                 </ul>
 
 
