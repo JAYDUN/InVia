@@ -2645,7 +2645,7 @@ var Nav = function (_React$Component) {
                                 _react2.default.createElement(
                                     _reactRouterDom.Link,
                                     { to: '/index' },
-                                    'Home'
+                                    '\u9996\u9875'
                                 )
                             ),
                             _react2.default.createElement(
@@ -2654,7 +2654,7 @@ var Nav = function (_React$Component) {
                                 _react2.default.createElement(
                                     _reactRouterDom.Link,
                                     { to: '/services' },
-                                    'Services'
+                                    '\u670D\u52A1'
                                 )
                             ),
                             _react2.default.createElement(
@@ -2663,7 +2663,7 @@ var Nav = function (_React$Component) {
                                 _react2.default.createElement(
                                     _reactRouterDom.Link,
                                     { to: '/about' },
-                                    'AboutInvia'
+                                    '\u5173\u4E8E\u77E5\u9014'
                                 )
                             )
                         )

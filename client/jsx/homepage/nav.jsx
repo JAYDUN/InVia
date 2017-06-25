@@ -17,13 +17,13 @@ class Nav extends React.Component {
                 </ul>
                 <ul  className="nav-right">
                     <li>
-                        <Link to="/index">Home</Link>
+                        <Link to="/index">首页</Link>
                     </li>
                     <li>
-                        <Link to="/services">Services</Link>
+                        <Link to="/services">服务</Link>
                     </li>
                     <li>
-                        <Link to="/about">AboutInvia</Link>
+                        <Link to="/about">关于知途</Link>
                     </li>
 
                         {/*<a className="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">*/}
