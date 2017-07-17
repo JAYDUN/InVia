@@ -16,10 +16,10 @@ class Services extends React.Component {
                         <div className="intro-box" >
                             <div className="intro about-header-font"  >
                                 <h1>服务介绍</h1>
-                                {/*<h3>每一个留学生都像天上的明星一样 闪闪发光*/}
-                                {/*</h3>*/}
-                                <h3>敬请期待
+                                <h3>每一个留学生都像天上的明星一样 闪闪发光
                                 </h3>
+                                {/*<h3>敬请期待*/}
+                                {/*</h3>*/}
                             </div>
                         </div>
                     </div>
