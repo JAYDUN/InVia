@@ -66,6 +66,44 @@ class Index extends React.Component {
                 <section id="about" className="about section">
                     <div className="container">
                         <div className="row">
+                            <div className="col-sm-10 col-sm-offset-1 home_intro">
+                                <h2 className="title">知途服务</h2>
+                                <div className="index-services-content">
+                                    <div className="index-services-content-left">
+                                        <div className="index-services-content-left-header">
+                                            <h3>新留学生开学预备班</h3>
+                                            {/*<h4>新留学生开学预备班</h4>*/}
+                                        </div>
+                                        <div className="divider">
+                                            <span></span>
+                                        </div>
+                                        <div className="index-services-content-left-body">
+                                            <p>
+                                                In Via Head Start Program是专为第一次来加拿大读书的留学生提供抢先教育、为初来乍到的海外青少年留学生们量身打造一个快速了解北美文化和适应生活的服务。使留学生在开学前做好热身，提前了解大温地区的民俗文化、法律法规、对其所在学校、城市有一个初步的认识。
+                                            </p>
+                                            <p>在此期间，由加拿大名校的良师益友们带队，参观当地著名学府，锻炼海外自立能力，深度了解历史文化，并积极提升英语表达能力。与此同时，根据每天的活动主题，我们提供相对应的知识工作坊，着重于培养留学生们的逻辑思维、认知扩张、团队协作等能力，为开学后即将来临的西方教学做铺垫。</p>
+                                            <p>
+                                                通过两周的预备班和一对一有针对性地成长规划、困难排除，让留学生们真实了解北美的文化；积极养成健康的生活习惯；学习灵活转换东西方的思维模式；拥有一个高质量的交友平台；建立海外留学的自信心。
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div className="index-services-content-right">
+                                        <div className="index-services-content-right-body">
+                                            <img className="index-services-content-right-body-img" src="../img/index-service.png"/>
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <div className="aboutbtn1">
+                                    <Link to="/services" className="btn aboutbtn2">Read More</Link>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <section id="about" className="about section">
+                    <div className="container">
+                        <div className="row">
                             <div className="col-sm-8 col-sm-offset-2 home_intro">
                                 <h2 className="title">About In Via</h2>
                                 <h4>
@@ -80,6 +118,7 @@ class Index extends React.Component {
                         </div>
                     </div>
                 </section>
+
                 <section id="contact" className="contact section">
                     <h2 className="title">Contact Us</h2>
 

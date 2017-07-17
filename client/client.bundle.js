@@ -22011,6 +22011,86 @@ var Index = function (_React$Component) {
                             { className: 'row' },
                             _react2.default.createElement(
                                 'div',
+                                { className: 'col-sm-10 col-sm-offset-1 home_intro' },
+                                _react2.default.createElement(
+                                    'h2',
+                                    { className: 'title' },
+                                    '\u77E5\u9014\u670D\u52A1'
+                                ),
+                                _react2.default.createElement(
+                                    'div',
+                                    { className: 'index-services-content' },
+                                    _react2.default.createElement(
+                                        'div',
+                                        { className: 'index-services-content-left' },
+                                        _react2.default.createElement(
+                                            'div',
+                                            { className: 'index-services-content-left-header' },
+                                            _react2.default.createElement(
+                                                'h3',
+                                                null,
+                                                '\u65B0\u7559\u5B66\u751F\u5F00\u5B66\u9884\u5907\u73ED'
+                                            )
+                                        ),
+                                        _react2.default.createElement(
+                                            'div',
+                                            { className: 'divider' },
+                                            _react2.default.createElement('span', null)
+                                        ),
+                                        _react2.default.createElement(
+                                            'div',
+                                            { className: 'index-services-content-left-body' },
+                                            _react2.default.createElement(
+                                                'p',
+                                                null,
+                                                'In Via Head Start Program\u662F\u4E13\u4E3A\u7B2C\u4E00\u6B21\u6765\u52A0\u62FF\u5927\u8BFB\u4E66\u7684\u7559\u5B66\u751F\u63D0\u4F9B\u62A2\u5148\u6559\u80B2\u3001\u4E3A\u521D\u6765\u4E4D\u5230\u7684\u6D77\u5916\u9752\u5C11\u5E74\u7559\u5B66\u751F\u4EEC\u91CF\u8EAB\u6253\u9020\u4E00\u4E2A\u5FEB\u901F\u4E86\u89E3\u5317\u7F8E\u6587\u5316\u548C\u9002\u5E94\u751F\u6D3B\u7684\u670D\u52A1\u3002\u4F7F\u7559\u5B66\u751F\u5728\u5F00\u5B66\u524D\u505A\u597D\u70ED\u8EAB\uFF0C\u63D0\u524D\u4E86\u89E3\u5927\u6E29\u5730\u533A\u7684\u6C11\u4FD7\u6587\u5316\u3001\u6CD5\u5F8B\u6CD5\u89C4\u3001\u5BF9\u5176\u6240\u5728\u5B66\u6821\u3001\u57CE\u5E02\u6709\u4E00\u4E2A\u521D\u6B65\u7684\u8BA4\u8BC6\u3002'
+                                            ),
+                                            _react2.default.createElement(
+                                                'p',
+                                                null,
+                                                '\u5728\u6B64\u671F\u95F4\uFF0C\u7531\u52A0\u62FF\u5927\u540D\u6821\u7684\u826F\u5E08\u76CA\u53CB\u4EEC\u5E26\u961F\uFF0C\u53C2\u89C2\u5F53\u5730\u8457\u540D\u5B66\u5E9C\uFF0C\u953B\u70BC\u6D77\u5916\u81EA\u7ACB\u80FD\u529B\uFF0C\u6DF1\u5EA6\u4E86\u89E3\u5386\u53F2\u6587\u5316\uFF0C\u5E76\u79EF\u6781\u63D0\u5347\u82F1\u8BED\u8868\u8FBE\u80FD\u529B\u3002\u4E0E\u6B64\u540C\u65F6\uFF0C\u6839\u636E\u6BCF\u5929\u7684\u6D3B\u52A8\u4E3B\u9898\uFF0C\u6211\u4EEC\u63D0\u4F9B\u76F8\u5BF9\u5E94\u7684\u77E5\u8BC6\u5DE5\u4F5C\u574A\uFF0C\u7740\u91CD\u4E8E\u57F9\u517B\u7559\u5B66\u751F\u4EEC\u7684\u903B\u8F91\u601D\u7EF4\u3001\u8BA4\u77E5\u6269\u5F20\u3001\u56E2\u961F\u534F\u4F5C\u7B49\u80FD\u529B\uFF0C\u4E3A\u5F00\u5B66\u540E\u5373\u5C06\u6765\u4E34\u7684\u897F\u65B9\u6559\u5B66\u505A\u94FA\u57AB\u3002'
+                                            ),
+                                            _react2.default.createElement(
+                                                'p',
+                                                null,
+                                                '\u901A\u8FC7\u4E24\u5468\u7684\u9884\u5907\u73ED\u548C\u4E00\u5BF9\u4E00\u6709\u9488\u5BF9\u6027\u5730\u6210\u957F\u89C4\u5212\u3001\u56F0\u96BE\u6392\u9664\uFF0C\u8BA9\u7559\u5B66\u751F\u4EEC\u771F\u5B9E\u4E86\u89E3\u5317\u7F8E\u7684\u6587\u5316\uFF1B\u79EF\u6781\u517B\u6210\u5065\u5EB7\u7684\u751F\u6D3B\u4E60\u60EF\uFF1B\u5B66\u4E60\u7075\u6D3B\u8F6C\u6362\u4E1C\u897F\u65B9\u7684\u601D\u7EF4\u6A21\u5F0F\uFF1B\u62E5\u6709\u4E00\u4E2A\u9AD8\u8D28\u91CF\u7684\u4EA4\u53CB\u5E73\u53F0\uFF1B\u5EFA\u7ACB\u6D77\u5916\u7559\u5B66\u7684\u81EA\u4FE1\u5FC3\u3002'
+                                            )
+                                        )
+                                    ),
+                                    _react2.default.createElement(
+                                        'div',
+                                        { className: 'index-services-content-right' },
+                                        _react2.default.createElement(
+                                            'div',
+                                            { className: 'index-services-content-right-body' },
+                                            _react2.default.createElement('img', { className: 'index-services-content-right-body-img', src: '../img/index-service.png' })
+                                        )
+                                    )
+                                ),
+                                _react2.default.createElement(
+                                    'div',
+                                    { className: 'aboutbtn1' },
+                                    _react2.default.createElement(
+                                        _reactRouterDom.Link,
+                                        { to: '/services', className: 'btn aboutbtn2' },
+                                        'Read More'
+                                    )
+                                )
+                            )
+                        )
+                    )
+                ),
+                _react2.default.createElement(
+                    'section',
+                    { id: 'about', className: 'about section' },
+                    _react2.default.createElement(
+                        'div',
+                        { className: 'container' },
+                        _react2.default.createElement(
+                            'div',
+                            { className: 'row' },
+                            _react2.default.createElement(
+                                'div',
                                 { className: 'col-sm-8 col-sm-offset-2 home_intro' },
                                 _react2.default.createElement(
                                     'h2',
@@ -22691,6 +22771,1022 @@ var Services = function (_React$Component) {
                                     'h3',
                                     null,
                                     '\u656C\u8BF7\u671F\u5F85'
+                                )
+                            )
+                        )
+                    )
+                ),
+                _react2.default.createElement(
+                    'div',
+                    { className: 'services_container' },
+                    _react2.default.createElement(
+                        'section',
+                        { className: 'about services-section' },
+                        _react2.default.createElement(
+                            'div',
+                            { className: 'container' },
+                            _react2.default.createElement(
+                                'div',
+                                { className: 'row clearfix' },
+                                _react2.default.createElement(
+                                    'div',
+                                    { className: 'col-md-12 column services_subcontainer' },
+                                    _react2.default.createElement(
+                                        'div',
+                                        { className: 'row clearfix' },
+                                        _react2.default.createElement('div', { className: 'col-md-5 column services_container_left' }),
+                                        _react2.default.createElement(
+                                            'div',
+                                            { className: 'col-md-5 column services_container_right' },
+                                            _react2.default.createElement(
+                                                'div',
+                                                { className: 'services_container_right_header' },
+                                                _react2.default.createElement(
+                                                    'h3',
+                                                    null,
+                                                    '\u65B0\u7559\u5B66\u751F\u5F00\u5B66\u9884\u5907\u73ED'
+                                                )
+                                            ),
+                                            _react2.default.createElement(
+                                                'div',
+                                                { className: 'services_container_right_body' },
+                                                _react2.default.createElement(
+                                                    'div',
+                                                    { className: 'services_container_right_body_left' },
+                                                    _react2.default.createElement(
+                                                        'div',
+                                                        { className: 'services_container_right_body_header' },
+                                                        _react2.default.createElement(
+                                                            'h4',
+                                                            null,
+                                                            '1.1 \u51FA\u56FD\u524D\u8FDC\u7A0B\u670D\u52A1\u4E0E\u95EE\u9898\u89E3\u7B54'
+                                                        )
+                                                    ),
+                                                    _react2.default.createElement(
+                                                        'div',
+                                                        { className: 'services_container_right_body_body' },
+                                                        _react2.default.createElement(
+                                                            'h5',
+                                                            null,
+                                                            '\u65F6\u957F\uFF1A2\u5C0F\u65F6'
+                                                        ),
+                                                        _react2.default.createElement(
+                                                            'h5',
+                                                            null,
+                                                            '\u8054\u7CFB\u65B9\u5F0F\uFF1A\u77E5\u9014\u4F34\u5B66\u5FAE\u4FE1\u5BA2\u670D'
+                                                        ),
+                                                        _react2.default.createElement(
+                                                            'h5',
+                                                            null,
+                                                            '\u7EBF\u4E0A\u54A8\u8BE2\u5185\u5BB9\u5305\u542B\uFF1A'
+                                                        ),
+                                                        _react2.default.createElement(
+                                                            'h6',
+                                                            null,
+                                                            '\u5206\u6790\u9009\u62E9\u5BC4\u5BBF\u5BB6\u5EAD'
+                                                        ),
+                                                        _react2.default.createElement(
+                                                            'h6',
+                                                            null,
+                                                            '\u5B66\u6821\u73AF\u5883\u5206\u6790'
+                                                        ),
+                                                        _react2.default.createElement(
+                                                            'h6',
+                                                            null,
+                                                            '\u836F\u7269\u643A\u5E26'
+                                                        ),
+                                                        _react2.default.createElement(
+                                                            'h6',
+                                                            null,
+                                                            '\u533B\u7597\u4FDD\u9669'
+                                                        ),
+                                                        _react2.default.createElement(
+                                                            'h6',
+                                                            null,
+                                                            '\u51FA\u5173\u6D41\u7A0B   \u7B49'
+                                                        )
+                                                    )
+                                                ),
+                                                _react2.default.createElement(
+                                                    'div',
+                                                    { className: 'services_container_right_body_left' },
+                                                    _react2.default.createElement(
+                                                        'div',
+                                                        { className: 'services_container_right_body_header' },
+                                                        _react2.default.createElement(
+                                                            'h4',
+                                                            null,
+                                                            '1.2 \u9884\u5907\u73ED\u6D3B\u52A8\u51FA\u53D1\u524D\u5BB6\u8BBF'
+                                                        )
+                                                    ),
+                                                    _react2.default.createElement(
+                                                        'div',
+                                                        { className: 'services_container_right_body_body' },
+                                                        _react2.default.createElement(
+                                                            'h5',
+                                                            null,
+                                                            '\u65F6\u957F\uFF1A2\u5C0F\u65F6'
+                                                        ),
+                                                        _react2.default.createElement(
+                                                            'h5',
+                                                            null,
+                                                            '\u8054\u7CFB\u65B9\u5F0F\uFF1A\u5BFC\u5E08\u4EB2\u81EA\u5230\u8BBF\u5BC4\u5BBF\u5BB6\u5EAD'
+                                                        ),
+                                                        _react2.default.createElement(
+                                                            'h5',
+                                                            null,
+                                                            '\u5185\u5BB9\u5305\u542B\uFF1A'
+                                                        ),
+                                                        _react2.default.createElement(
+                                                            'h6',
+                                                            null,
+                                                            '\u5BFC\u5E08\u5BB6\u8BBF\u4E86\u89E3\u5BC4\u5BBF\u5BB6\u5EAD\u5B9E\u9645\u60C5\u51B5'
+                                                        ),
+                                                        _react2.default.createElement(
+                                                            'h6',
+                                                            null,
+                                                            '\u5B66\u6821\u73AF\u5883\u5206\u6790'
+                                                        ),
+                                                        _react2.default.createElement(
+                                                            'h6',
+                                                            null,
+                                                            '\u836F\u7269\u643A\u5E26'
+                                                        ),
+                                                        _react2.default.createElement(
+                                                            'h6',
+                                                            null,
+                                                            '\u4E0E\u53C2\u52A0\u6D3B\u52A8\u7684\u5B66\u751F\u6838\u5BF9\u6D3B\u52A8\u6D41\u7A0B'
+                                                        ),
+                                                        _react2.default.createElement(
+                                                            'h6',
+                                                            null,
+                                                            '\u8BB2\u89E3\u6D3B\u52A8\u6CE8\u610F\u4E8B\u9879'
+                                                        )
+                                                    )
+                                                )
+                                            )
+                                        )
+                                    )
+                                )
+                            )
+                        )
+                    ),
+                    _react2.default.createElement(
+                        'section',
+                        { className: 'about services-section' },
+                        _react2.default.createElement(
+                            'div',
+                            { className: 'container' },
+                            _react2.default.createElement(
+                                'div',
+                                { className: 'row clearfix' },
+                                _react2.default.createElement(
+                                    'div',
+                                    { className: 'col-md-12 column services_subcontainer' },
+                                    _react2.default.createElement(
+                                        'div',
+                                        { className: 'row clearfix' },
+                                        _react2.default.createElement('div', { className: 'col-md-6 column services_container_left activities-1-left' }),
+                                        _react2.default.createElement(
+                                            'div',
+                                            { className: 'col-md-6 column services_container_right activities-right' },
+                                            _react2.default.createElement(
+                                                'div',
+                                                { className: 'services_container_right_header' },
+                                                _react2.default.createElement(
+                                                    'h3',
+                                                    null,
+                                                    '\u65B0\u7559\u5B66\u751F\u5F00\u5B66\u9884\u5907\u73ED'
+                                                ),
+                                                _react2.default.createElement(
+                                                    'h4',
+                                                    null,
+                                                    '1.3 \u9884\u5907\u73ED\u884C\u7A0B\u8868'
+                                                )
+                                            ),
+                                            _react2.default.createElement(
+                                                'div',
+                                                { className: 'services_container_right_body' },
+                                                _react2.default.createElement(
+                                                    'div',
+                                                    { className: 'services_container_right_body_header' },
+                                                    _react2.default.createElement(
+                                                        'h4',
+                                                        null,
+                                                        '\u5B66\u524D\u5DE5\u4F5C\u574A\u4E4B\u5317\u7F8E\u6587\u5316\u6DF1\u5EA6\u4E86\u89E3'
+                                                    )
+                                                ),
+                                                _react2.default.createElement(
+                                                    'div',
+                                                    { className: 'services_container_right_body_body activities-right-body' },
+                                                    _react2.default.createElement(
+                                                        'h5',
+                                                        null,
+                                                        '\u65F6\u95F4\uFF1A8\u67087\uFF0F8\u65E5'
+                                                    ),
+                                                    _react2.default.createElement(
+                                                        'h5',
+                                                        null,
+                                                        '\u5730\u70B9\uFF1ADowntown \u6E29\u54E5\u534E\u5E02\u4E2D\u5FC3'
+                                                    ),
+                                                    _react2.default.createElement(
+                                                        'h5',
+                                                        { className: 'services_container_right_body_body_sp' },
+                                                        '\u53C2\u89C2\u6E29\u54E5\u534E\u5386\u53F2\u60A0\u4E45\u7684Gastown\u7164\u6C14\u9547\u3001Christ Church Cathedral\u6559\u5802\u4EE5\u53CA\u611F\u53D7\u73B0\u4EE3\u7684\u90FD\u5E02\u6587\u5316\uFF08Canada Place, \u5168\u52A0\u62FF\u5927\u552F\u4E00\u76844D\u4F53\u9A8C\u9986\uFF09'
+                                                    ),
+                                                    _react2.default.createElement(
+                                                        'h5',
+                                                        null,
+                                                        '\u5728\u5317\u7F8E\u6700\u6709\u540D\u7684Vancouver Central Public Library\u6E29\u54E5\u534E\u516C\u5171\u56FE\u4E66\u9986\u4E3E\u529E\u5B66\u524D\u5DE5\u4F5C\u574A'
+                                                    ),
+                                                    _react2.default.createElement(
+                                                        'h6',
+                                                        null,
+                                                        '\u4E86\u89E3\u52A0\u62FF\u5927\u7684\u7279\u8272\u6D3B\u52A8\u4E0E\u8282\u65E5'
+                                                    ),
+                                                    _react2.default.createElement(
+                                                        'h6',
+                                                        null,
+                                                        '\u4E2D\u52A0\u8282\u65E5\u6587\u5316\u6D3B\u52A8\u5DEE\u5F02\u5927\u76D8\u70B9'
+                                                    ),
+                                                    _react2.default.createElement(
+                                                        'h6',
+                                                        null,
+                                                        '\u5B66\u4E60\u5982\u4F55\u5C0A\u91CD\u6587\u5316\u5DEE\u5F02\u6027'
+                                                    ),
+                                                    _react2.default.createElement(
+                                                        'h6',
+                                                        null,
+                                                        '\u5982\u4F55\u907F\u514D\u76F2\u76EE\u52A0\u5165\u5F53\u5730\u7684\u5B97\u6559\u7EC4\u7EC7\uFF0C\u901A\u8FC7\u5B97\u6559\u6211\u4EEC\u53EF\u4EE5\u5B66\u4E60\u5230\u4EC0\u4E48'
+                                                    )
+                                                )
+                                            )
+                                        )
+                                    )
+                                )
+                            )
+                        )
+                    ),
+                    _react2.default.createElement(
+                        'section',
+                        { className: 'about services-section' },
+                        _react2.default.createElement(
+                            'div',
+                            { className: 'container' },
+                            _react2.default.createElement(
+                                'div',
+                                { className: 'row clearfix' },
+                                _react2.default.createElement(
+                                    'div',
+                                    { className: 'col-md-12 column services_subcontainer' },
+                                    _react2.default.createElement(
+                                        'div',
+                                        { className: 'row clearfix' },
+                                        _react2.default.createElement('div', { className: 'col-md-6 column services_container_left activities-2-left' }),
+                                        _react2.default.createElement(
+                                            'div',
+                                            { className: 'col-md-6 column services_container_right activities-right' },
+                                            _react2.default.createElement(
+                                                'div',
+                                                { className: 'services_container_right_header' },
+                                                _react2.default.createElement(
+                                                    'h3',
+                                                    null,
+                                                    '\u65B0\u7559\u5B66\u751F\u5F00\u5B66\u9884\u5907\u73ED'
+                                                ),
+                                                _react2.default.createElement(
+                                                    'h4',
+                                                    null,
+                                                    '1.3 \u9884\u5907\u73ED\u884C\u7A0B\u8868'
+                                                )
+                                            ),
+                                            _react2.default.createElement(
+                                                'div',
+                                                { className: 'services_container_right_body' },
+                                                _react2.default.createElement(
+                                                    'div',
+                                                    { className: 'services_container_right_body_header' },
+                                                    _react2.default.createElement(
+                                                        'h4',
+                                                        null,
+                                                        '\u5B66\u524D\u5DE5\u4F5C\u574A\u4E4B\u7559\u5B66\u751F\u6D3B\u77E5\u8BC6\u5168\u77E5\u9053'
+                                                    )
+                                                ),
+                                                _react2.default.createElement(
+                                                    'div',
+                                                    { className: 'services_container_right_body_body activities-right-body' },
+                                                    _react2.default.createElement(
+                                                        'h5',
+                                                        null,
+                                                        '\u65F6\u95F4\uFF1A8\u67089/10\u65E5'
+                                                    ),
+                                                    _react2.default.createElement(
+                                                        'h5',
+                                                        null,
+                                                        '\u5730\u70B9\uFF1AUBC \u82F1\u5C5E\u54E5\u4F26\u6BD4\u4E9A\u5927\u5B66'
+                                                    ),
+                                                    _react2.default.createElement(
+                                                        'h5',
+                                                        { className: 'services_container_right_body_body_sp' },
+                                                        '\u53C2\u89C2\u52A0\u62FF\u5927\u6392\u540D\u524D\u4E09\u7684\u9AD8\u7B49\u5B66\u5E9C\uFF08Rose Garden\u73AB\u7470\u82B1\u56ED\u3001MOA\u4EBA\u7C7B\u5B66\u535A\u7269\u9986\u3001Beaty Biodiversity Museum\u751F\u7269\u591A\u6837\u6027\u535A\u7269\u9986\u3001\u5404\u5B66\u79D1\u6559\u5B66\u697C\uFF09'
+                                                    ),
+                                                    _react2.default.createElement(
+                                                        'h6',
+                                                        null,
+                                                        '\u5728\u6821\u56ED\u5185\u4E3E\u529E\u5B66\u524D\u5DE5\u4F5C\u574A\u4E4B\u52A0\u56FD\u7559\u5B66\u751F\u6D3B\u77E5\u8BC6\u5168\u77E5\u9053'
+                                                    ),
+                                                    _react2.default.createElement(
+                                                        'h6',
+                                                        null,
+                                                        '\u5982\u4F55\u4F7F\u7528\u533B\u7597\u4FDD\u9669\uFF0C\u529E\u7406\u5F53\u5730\u751F\u6D3B\u5361'
+                                                    ),
+                                                    _react2.default.createElement(
+                                                        'h6',
+                                                        null,
+                                                        '\u4E0E\u5BC4\u5BBF\u5BB6\u5EAD\u3001\u5BA4\u53CB\u3001\u623F\u4E1C\u4EA7\u751F\u4E0D\u548C\u8C10\u65F6\u7684\u4EA4\u6D41\u6280\u5DE7'
+                                                    ),
+                                                    _react2.default.createElement(
+                                                        'h6',
+                                                        null,
+                                                        '\u5728\u65B0\u5B66\u6821\u600E\u4E48\u8868\u73B0\u80FD\u8BA9\u201C\u6D0B\u8001\u5E08\u201D\u4EE5\u540E\u201C\u7167\u987E\u201D\u4F60'
+                                                    ),
+                                                    _react2.default.createElement(
+                                                        'h6',
+                                                        null,
+                                                        '\u5982\u4F55\u7528\u5FC3\u7406\u5B66\u5C0F\u6280\u5DE7\u5904\u7406\u6D77\u5916\u7559\u5B66\u4EA7\u751F\u7684\u5B64\u72EC\u611F'
+                                                    ),
+                                                    _react2.default.createElement(
+                                                        'h6',
+                                                        null,
+                                                        '\u5982\u4F55\u7528\u8425\u517B\u5B66\u5408\u7406\u5B89\u6392\u65E5\u5E38\u996E\u98DF'
+                                                    ),
+                                                    _react2.default.createElement(
+                                                        'h6',
+                                                        null,
+                                                        '\u6E29\u54E5\u534E\u56DB\u5B63\u76F8\u5173\u7684\u6237\u5916\u6D3B\u52A8\u7B49'
+                                                    )
+                                                )
+                                            )
+                                        )
+                                    )
+                                )
+                            )
+                        )
+                    ),
+                    _react2.default.createElement(
+                        'section',
+                        { className: 'about services-section' },
+                        _react2.default.createElement(
+                            'div',
+                            { className: 'container' },
+                            _react2.default.createElement(
+                                'div',
+                                { className: 'row clearfix' },
+                                _react2.default.createElement(
+                                    'div',
+                                    { className: 'col-md-12 column services_subcontainer' },
+                                    _react2.default.createElement(
+                                        'div',
+                                        { className: 'row clearfix' },
+                                        _react2.default.createElement('div', { className: 'col-md-6 column services_container_left activities-3-left' }),
+                                        _react2.default.createElement(
+                                            'div',
+                                            { className: 'col-md-6 column services_container_right activities-right' },
+                                            _react2.default.createElement(
+                                                'div',
+                                                { className: 'services_container_right_header' },
+                                                _react2.default.createElement(
+                                                    'h3',
+                                                    null,
+                                                    '\u65B0\u7559\u5B66\u751F\u5F00\u5B66\u9884\u5907\u73ED'
+                                                ),
+                                                _react2.default.createElement(
+                                                    'h4',
+                                                    null,
+                                                    '1.3 \u9884\u5907\u73ED\u884C\u7A0B\u8868'
+                                                )
+                                            ),
+                                            _react2.default.createElement(
+                                                'div',
+                                                { className: 'services_container_right_body' },
+                                                _react2.default.createElement(
+                                                    'div',
+                                                    { className: 'services_container_right_body_header' },
+                                                    _react2.default.createElement(
+                                                        'h4',
+                                                        null,
+                                                        '\u5B66\u524D\u5DE5\u4F5C\u574A\u4E4B\u82F1\u6587\u80FD\u529B\u8FDB\u9636\u5F3A\u5316'
+                                                    )
+                                                ),
+                                                _react2.default.createElement(
+                                                    'div',
+                                                    { className: 'services_container_right_body_body activities-right-body' },
+                                                    _react2.default.createElement(
+                                                        'h5',
+                                                        null,
+                                                        '\u65F6\u95F4\uFF1A8\u670811/12\u65E5'
+                                                    ),
+                                                    _react2.default.createElement(
+                                                        'h5',
+                                                        null,
+                                                        '\u5730\u70B9\uFF1ABurnaby-SFU \u672C\u62FF\u6BD4-\u897F\u8499\u83F2\u838E\u5927\u5B66'
+                                                    ),
+                                                    _react2.default.createElement(
+                                                        'h5',
+                                                        null,
+                                                        '\u53C2\u89C2\u897F\u8499\u83F2\u838E\u5927\u5B66\uFF08Academic Q\uFF09'
+                                                    ),
+                                                    _react2.default.createElement(
+                                                        'h6',
+                                                        null,
+                                                        '\u5728\u6821\u56ED\u5185\u4E3E\u529E\u5B66\u524D\u5DE5\u4F5C\u574A\u4E4B\u82F1\u6587\u80FD\u529B\u8FDB\u9636'
+                                                    ),
+                                                    _react2.default.createElement(
+                                                        'h6',
+                                                        null,
+                                                        '\u5B66\u4F1A\u8BFB\u61C2\u82F1\u6587\u8425\u517B\u6807\u7B7E\u548C\u7528\u6D41\u5229\u5730\u82F1\u6587\u70B9\u9910 '
+                                                    ),
+                                                    _react2.default.createElement(
+                                                        'h6',
+                                                        null,
+                                                        '\u5982\u4F55\u70BC\u5C31\u81EA\u4FE1\u7684\u516C\u4F17\u6F14\u8BB2'
+                                                    ),
+                                                    _react2.default.createElement(
+                                                        'h6',
+                                                        null,
+                                                        '\u5982\u4F55\u7528\u4F18\u96C5\u7684\u82F1\u6587\u7F51\u7EDC\u6BB5\u5B50\u548C\u8001\u5916\u804A\u6210\u4E00\u7247'
+                                                    ),
+                                                    _react2.default.createElement(
+                                                        'h6',
+                                                        null,
+                                                        '\u770B\u54EA\u4E9B\u5165\u95E8\u7684\u82F1\u6587\u7535\u5F71\u548C\u4E66\u7C4D\u53EF\u4EE5\u63D0\u5347\u82F1\u6587'
+                                                    ),
+                                                    _react2.default.createElement(
+                                                        'h6',
+                                                        null,
+                                                        '\u5982\u4F55\u5408\u7406\u5E94\u5BF9\u82F1\u6587\u6559\u5B66\u5E76\u5FEB\u901F\u89E3\u51B3\u8BED\u8A00\u969C\u788D'
+                                                    )
+                                                )
+                                            )
+                                        )
+                                    )
+                                )
+                            )
+                        )
+                    ),
+                    _react2.default.createElement(
+                        'section',
+                        { className: 'about services-section' },
+                        _react2.default.createElement(
+                            'div',
+                            { className: 'container' },
+                            _react2.default.createElement(
+                                'div',
+                                { className: 'row clearfix' },
+                                _react2.default.createElement(
+                                    'div',
+                                    { className: 'col-md-12 column services_subcontainer' },
+                                    _react2.default.createElement(
+                                        'div',
+                                        { className: 'row clearfix' },
+                                        _react2.default.createElement('div', { className: 'col-md-6 column services_container_left activities-4-left' }),
+                                        _react2.default.createElement(
+                                            'div',
+                                            { className: 'col-md-6 column services_container_right activities-right' },
+                                            _react2.default.createElement(
+                                                'div',
+                                                { className: 'services_container_right_header' },
+                                                _react2.default.createElement(
+                                                    'h3',
+                                                    null,
+                                                    '\u65B0\u7559\u5B66\u751F\u5F00\u5B66\u9884\u5907\u73ED'
+                                                ),
+                                                _react2.default.createElement(
+                                                    'h4',
+                                                    null,
+                                                    '1.3 \u9884\u5907\u73ED\u884C\u7A0B\u8868'
+                                                )
+                                            ),
+                                            _react2.default.createElement(
+                                                'div',
+                                                { className: 'services_container_right_body' },
+                                                _react2.default.createElement(
+                                                    'div',
+                                                    { className: 'services_container_right_body_header' },
+                                                    _react2.default.createElement(
+                                                        'h4',
+                                                        null,
+                                                        '\u5B66\u524D\u5DE5\u4F5C\u574A\u4E4B\u5B66\u6821\u8BFE\u7A0B\u4E0E\u8BFE\u5916\u751F\u6D3B\u5B89\u6392\u8BE6\u89E3'
+                                                    )
+                                                ),
+                                                _react2.default.createElement(
+                                                    'div',
+                                                    { className: 'services_container_right_body_body activities-right-body' },
+                                                    _react2.default.createElement(
+                                                        'h5',
+                                                        null,
+                                                        '\u65F6\u95F4\uFF1A8\u670814/15\u65E5'
+                                                    ),
+                                                    _react2.default.createElement(
+                                                        'h5',
+                                                        null,
+                                                        '\u5730\u70B9\uFF1AGranville Island \u683C\u5170\u7EF4\u5C14\u5C9B'
+                                                    ),
+                                                    _react2.default.createElement(
+                                                        'h5',
+                                                        { className: 'services_container_right_body_body_sp' },
+                                                        '\u53C2\u89C2\u5386\u53F2\u6587\u5316\u6C14\u606F\u6D53\u539A\u7684\u683C\u5170\u7EF4\u5C14\u5C9B\uFF0C\u6E38\u89C8\u522B\u5177\u4E00\u683C\u7684\u624B\u5DE5\u827A\u54C1\u5E97\uFF0C\u63A2\u7D22\u5BCC\u542B\u672C\u5730\u7279\u8272\u7684\u81EA\u7531\u5E02\u573A\u3002\u53C2\u89C2\u52A0\u62FF\u5927\u8457\u540D\u9AD8\u7B49\u827A\u672F\u5B66\u5E9CEmily Carr University\u827E\u7C73\u4E3D\u5361\u5C14\u5927\u5B66\uFF08South Building Fine Art\u3001North Building Media Art\uFF09'
+                                                    ),
+                                                    _react2.default.createElement(
+                                                        'h6',
+                                                        null,
+                                                        '\u5728\u6821\u56ED\u5185\u4E3E\u529E\u5B66\u524D\u5DE5\u4F5C\u574A\u4E4B\u5B66\u6821\u8BFE\u7A0B\u4E0E\u8BFE\u5916\u751F\u6D3B\u5B89\u6392\u8BE6\u89E3'
+                                                    ),
+                                                    _react2.default.createElement(
+                                                        'h6',
+                                                        null,
+                                                        '\u8BFE\u7A0B\u5B89\u6392\uFF1A\u660E\u786E\u81EA\u5DF1\u8FD9\u4E00\u4E2A\u5B66\u671F\u7684\u8BFE\u7A0B\uFF0C\u65F6\u95F4\u8868\uFF0C\u4EE5\u53CA\u6240\u9700\u8BFE\u7A0B\u6750\u6599\u7684\u51C6\u5907'
+                                                    ),
+                                                    _react2.default.createElement(
+                                                        'h6',
+                                                        null,
+                                                        '\u53C2\u4E0E\u793E\u4F1A\u5FD7\u613F\u8005\u6D3B\u52A8\u7684\u5FC5\u8981\u6027\u6709\u54EA\u4E9B'
+                                                    ),
+                                                    _react2.default.createElement(
+                                                        'h6',
+                                                        null,
+                                                        '\u600E\u4E48\u624D\u80FD\u627E\u5230\u4E00\u4EFD\u201C\u597D\u73A9\u7684\u201D\u517C\u804C\u5DE5\u4F5C\u5E76\u5B66\u4F1A\u5C5E\u4E8E\u4F60\u7684\u8D22\u52A1\u7BA1\u7406'
+                                                    ),
+                                                    _react2.default.createElement(
+                                                        'h6',
+                                                        null,
+                                                        '\u60C5\u7AA6\u521D\u5F00\u7684\u9752\u5C11\u5E74\u7559\u5B66\u751F\u5728\u5F02\u56FD\u611F\u60C5\u91CC\u9700\u8981\u6CE8\u610F\u4E9B\u4EC0\u4E48'
+                                                    )
+                                                )
+                                            )
+                                        )
+                                    )
+                                )
+                            )
+                        )
+                    ),
+                    _react2.default.createElement(
+                        'section',
+                        { className: 'about services-section' },
+                        _react2.default.createElement(
+                            'div',
+                            { className: 'container' },
+                            _react2.default.createElement(
+                                'div',
+                                { className: 'row clearfix' },
+                                _react2.default.createElement(
+                                    'div',
+                                    { className: 'col-md-12 column services_subcontainer' },
+                                    _react2.default.createElement(
+                                        'div',
+                                        { className: 'row clearfix' },
+                                        _react2.default.createElement('div', { className: 'col-md-6 column services_container_left activities-5-left' }),
+                                        _react2.default.createElement(
+                                            'div',
+                                            { className: 'col-md-6 column services_container_right activities-right' },
+                                            _react2.default.createElement(
+                                                'div',
+                                                { className: 'services_container_right_header' },
+                                                _react2.default.createElement(
+                                                    'h3',
+                                                    null,
+                                                    '\u65B0\u7559\u5B66\u751F\u5F00\u5B66\u9884\u5907\u73ED'
+                                                ),
+                                                _react2.default.createElement(
+                                                    'h4',
+                                                    null,
+                                                    '1.3 \u9884\u5907\u73ED\u884C\u7A0B\u8868'
+                                                )
+                                            ),
+                                            _react2.default.createElement(
+                                                'div',
+                                                { className: 'services_container_right_body' },
+                                                _react2.default.createElement(
+                                                    'div',
+                                                    { className: 'services_container_right_body_header' },
+                                                    _react2.default.createElement(
+                                                        'h4',
+                                                        null,
+                                                        '\u5B66\u524D\u5DE5\u4F5C\u574A\u4E4B\u6237\u5916\u4F53\u9A8C\u6D3B\u52A8 (\u4E00)'
+                                                    )
+                                                ),
+                                                _react2.default.createElement(
+                                                    'div',
+                                                    { className: 'services_container_right_body_body activities-right-body' },
+                                                    _react2.default.createElement(
+                                                        'h5',
+                                                        null,
+                                                        '\u65F6\u95F4\uFF1A8\u670816/17\u65E5'
+                                                    ),
+                                                    _react2.default.createElement(
+                                                        'h5',
+                                                        null,
+                                                        '\u5730\u70B9\uFF1ANorth Vancouver Deep Cove \u5317\u6E29\u54E5\u534E'
+                                                    ),
+                                                    _react2.default.createElement(
+                                                        'h5',
+                                                        { className: 'services_container_right_body_body_sp' },
+                                                        '\u53C2\u89C2Deep Cove\u5C0F\u9547\u5E76\u4ECB\u7ECD\u5317\u6E29\u5386\u53F2\u6587\u5316\u3002\u4E3A\u4E86\u8BA9\u7559\u5B66\u751F\u4EEC\u5728\u5F00\u5B66\u524D\u5F97\u5230\u5145\u5206\u6709\u6548\u7684\u653E\u677E\uFF0C\u6211\u4EEC\u4E3A\u5B66\u751F\u4EEC\u7EC4\u7EC7\u6E56\u8FB9\u70E7\u70E4BBQ\u3001\u76CA\u667A\u6E38\u620F\u548C\u5404\u5F0F\u5404\u6837\u7684\u4F11\u95F2\u8FD0\u52A8\u9879\u76EE\uFF08\u6E38\u89C8\u5468\u8FB9\u5927\u81EA\u7136\u98CE\u5149\u3001\u722C\u5C71\u3001\u6E56\u4E0A\u5212\u8239\u7B49\uFF09'
+                                                    )
+                                                )
+                                            )
+                                        )
+                                    )
+                                )
+                            )
+                        )
+                    ),
+                    _react2.default.createElement(
+                        'section',
+                        { className: 'about services-section' },
+                        _react2.default.createElement(
+                            'div',
+                            { className: 'container' },
+                            _react2.default.createElement(
+                                'div',
+                                { className: 'row clearfix' },
+                                _react2.default.createElement(
+                                    'div',
+                                    { className: 'col-md-12 column services_subcontainer' },
+                                    _react2.default.createElement(
+                                        'div',
+                                        { className: 'row clearfix' },
+                                        _react2.default.createElement('div', { className: 'col-md-6 column services_container_left activities-6-left' }),
+                                        _react2.default.createElement(
+                                            'div',
+                                            { className: 'col-md-6 column services_container_right activities-right' },
+                                            _react2.default.createElement(
+                                                'div',
+                                                { className: 'services_container_right_header' },
+                                                _react2.default.createElement(
+                                                    'h3',
+                                                    null,
+                                                    '\u65B0\u7559\u5B66\u751F\u5F00\u5B66\u9884\u5907\u73ED'
+                                                ),
+                                                _react2.default.createElement(
+                                                    'h4',
+                                                    null,
+                                                    '1.3 \u9884\u5907\u73ED\u884C\u7A0B\u8868'
+                                                )
+                                            ),
+                                            _react2.default.createElement(
+                                                'div',
+                                                { className: 'services_container_right_body' },
+                                                _react2.default.createElement(
+                                                    'div',
+                                                    { className: 'services_container_right_body_header' },
+                                                    _react2.default.createElement(
+                                                        'h4',
+                                                        null,
+                                                        '\u5B66\u524D\u5DE5\u4F5C\u574A\u4E4B\u6237\u5916\u4F53\u9A8C\u6D3B\u52A8 (\u4E8C)'
+                                                    )
+                                                ),
+                                                _react2.default.createElement(
+                                                    'div',
+                                                    { className: 'services_container_right_body_body activities-right-body' },
+                                                    _react2.default.createElement(
+                                                        'h5',
+                                                        null,
+                                                        '\u65F6\u95F4\uFF1A8\u670818/19\u65E5'
+                                                    ),
+                                                    _react2.default.createElement(
+                                                        'h5',
+                                                        null,
+                                                        '\u5730\u70B9\uFF1ALangley\u5170\u91CC'
+                                                    ),
+                                                    _react2.default.createElement(
+                                                        'h5',
+                                                        { className: 'services_container_right_body_body_sp' },
+                                                        '\u5750\u5B66\u6821\u5927\u5DF4\u5230\u5927\u6E29\u5730\u533A\u6700\u5177\u6709\u5386\u53F2\u6587\u5316\u7279\u8272\u7684\u5170\u91CC\u533A\uFF08\u4E86\u89E3\u52A0\u62FF\u5927\u8D27\u5E01\u7684\u5386\u53F2\uFF0C\u8BC6\u522B\u52A8\u7269\u4FDD\u62A4\u8DEF\u724C\uFF0C\u53C2\u89C2\u53E4\u8463\u5E97\u548C\u65E7\u706B\u8F66\u535A\u7269\u9986\u7B49\uFF09\u3002\u5728\u5170\u91CC\u6700\u5927\u7684\u519C\u573A\u91CC\u4F53\u9A8C\u91C7\u6458\u65F6\u4EE4\u6C34\u679C\u7684\u4E50\u8DA3\uFF08\u84DD\u8393\u3001\u8349\u8393\u3001\u9ED1\u8393\u7B49\uFF09\uFF0C\u5582\u517B\u53EF\u7231\u7684\u5C0F\u52A8\u7269\uFF0C\u53C2\u4E0E\u6DD8\u91D1\u6E38\u620F\u3002'
+                                                    )
+                                                )
+                                            )
+                                        )
+                                    )
+                                )
+                            )
+                        )
+                    ),
+                    _react2.default.createElement(
+                        'section',
+                        { className: 'about services-section' },
+                        _react2.default.createElement(
+                            'div',
+                            { className: 'container' },
+                            _react2.default.createElement(
+                                'div',
+                                { className: 'row clearfix' },
+                                _react2.default.createElement(
+                                    'div',
+                                    { className: 'col-md-12 column services_subcontainer' },
+                                    _react2.default.createElement(
+                                        'div',
+                                        { className: 'row clearfix' },
+                                        _react2.default.createElement('div', { className: 'col-md-6 column services_container_left activities-7-left' }),
+                                        _react2.default.createElement(
+                                            'div',
+                                            { className: 'col-md-6 column services_container_right activities-right' },
+                                            _react2.default.createElement(
+                                                'div',
+                                                { className: 'services_container_right_header' },
+                                                _react2.default.createElement(
+                                                    'h3',
+                                                    null,
+                                                    '\u65B0\u7559\u5B66\u751F\u5F00\u5B66\u9884\u5907\u73ED'
+                                                ),
+                                                _react2.default.createElement(
+                                                    'h4',
+                                                    null,
+                                                    '1.4 \u5BFC\u5E08\u5F00\u5B66\u524D\u54A8\u8BE2\u8F85\u5BFC'
+                                                )
+                                            ),
+                                            _react2.default.createElement(
+                                                'div',
+                                                { className: 'services_container_right_body' },
+                                                _react2.default.createElement(
+                                                    'div',
+                                                    { className: 'services_container_right_body_header' },
+                                                    _react2.default.createElement(
+                                                        'h4',
+                                                        null,
+                                                        '\u5BFC\u5E08\u5F00\u5B66\u524D\u54A8\u8BE2\u8F85\u5BFC'
+                                                    )
+                                                ),
+                                                _react2.default.createElement(
+                                                    'div',
+                                                    { className: 'services_container_right_body_body activities-right-body' },
+                                                    _react2.default.createElement(
+                                                        'h5',
+                                                        null,
+                                                        '\u65F6\u95F4\uFF1A8\u670820\u65E5- 8\u670830\u65E5'
+                                                    ),
+                                                    _react2.default.createElement(
+                                                        'h5',
+                                                        null,
+                                                        '\u65F6\u957F\uFF1A1\u5C0F\u65F6 \uFF08\u517110\u6B21\uFF09'
+                                                    ),
+                                                    _react2.default.createElement(
+                                                        'h5',
+                                                        null,
+                                                        '\u8054\u7CFB\u65B9\u5F0F\uFF1A\u901A\u8FC7\u7EBF\u4E0A\u9884\u7EA6\u5BFC\u5E08'
+                                                    ),
+                                                    _react2.default.createElement(
+                                                        'h6',
+                                                        null,
+                                                        '\u5E2E\u6211\u4EEC\u7684\u5C0F\u7559\u5B66\u751F\u505A\u5BC4\u5BBF\u5BB6\u5EAD\u7684\u534F\u8C03'
+                                                    ),
+                                                    _react2.default.createElement(
+                                                        'h6',
+                                                        null,
+                                                        '\u5B66\u6821\u8BFE\u7A0B\u7684\u5B89\u6392\uFF0C\u4E86\u89E3\u6BCF\u4E2A\u4EBA\u7684\u5347\u5B66\u8BA1\u5212'
+                                                    ),
+                                                    _react2.default.createElement(
+                                                        'h6',
+                                                        null,
+                                                        '\u8003\u8BD5\u62A5\u540D\u534F\u52A9 \u5927\u5B66\u4E13\u4E1A\u3001\u9AD8\u4E2D\u8BFE\u7A0B\u5206\u6790'
+                                                    ),
+                                                    _react2.default.createElement(
+                                                        'h6',
+                                                        null,
+                                                        '\u5F00\u5B66\u524D\u5BB6\u957F\u4F1A\u966A\u4F34'
+                                                    ),
+                                                    _react2.default.createElement(
+                                                        'h6',
+                                                        null,
+                                                        '\u642C\u5BB6\u670D\u52A1\uFF0C\u4E8C\u624B\u4E66\u672C\u51C6\u5907'
+                                                    ),
+                                                    _react2.default.createElement(
+                                                        'h6',
+                                                        null,
+                                                        '\u534F\u52A9\u5B66\u751F\u529E\u7406\u52A0\u62FF\u5927\u7684\u533B\u7597\u4FDD\u9669'
+                                                    ),
+                                                    _react2.default.createElement(
+                                                        'h6',
+                                                        null,
+                                                        '\u6027\u683C\u6D4B\u8BD5\uFF0C\u8BED\u8A00\u63D0\u9AD8'
+                                                    ),
+                                                    _react2.default.createElement(
+                                                        'h6',
+                                                        null,
+                                                        '\u4EFB\u4F55\u5B66\u751F\u7EBF\u4E0B\u9700\u8981\u7684\u5E2E\u52A9\uFF08\u9664\u533B\u7597\u7D27\u6025\u60C5\u51B5)'
+                                                    )
+                                                )
+                                            )
+                                        )
+                                    )
+                                )
+                            )
+                        )
+                    ),
+                    _react2.default.createElement(
+                        'section',
+                        { className: 'about services-section' },
+                        _react2.default.createElement(
+                            'div',
+                            { className: 'container' },
+                            _react2.default.createElement(
+                                'div',
+                                { className: 'row clearfix' },
+                                _react2.default.createElement(
+                                    'div',
+                                    { className: 'col-md-12 column services_subcontainer' },
+                                    _react2.default.createElement(
+                                        'div',
+                                        { className: 'row clearfix' },
+                                        _react2.default.createElement(
+                                            'div',
+                                            { className: 'col-md-6 column services_container_right activities-price' },
+                                            _react2.default.createElement(
+                                                'div',
+                                                { className: 'services_container_right_header' },
+                                                _react2.default.createElement(
+                                                    'h3',
+                                                    null,
+                                                    '\u65B0\u7559\u5B66\u751F\u5F00\u5B66\u9884\u5907\u73ED'
+                                                ),
+                                                _react2.default.createElement(
+                                                    'h4',
+                                                    null,
+                                                    '\u4EF7\u683C\u8868'
+                                                )
+                                            ),
+                                            _react2.default.createElement(
+                                                'div',
+                                                { className: 'services_container_right_body' },
+                                                _react2.default.createElement(
+                                                    'div',
+                                                    { className: 'services_container_right_body_header' },
+                                                    _react2.default.createElement(
+                                                        'h4',
+                                                        null,
+                                                        '\u4EF7\u683C\uFF1A1500 \u52A0\u5E01 / 8000\u4EBA\u6C11\u5E01'
+                                                    )
+                                                ),
+                                                _react2.default.createElement(
+                                                    'div',
+                                                    { className: 'services_container_right_body_body activities-right-body' },
+                                                    _react2.default.createElement(
+                                                        'h5',
+                                                        null,
+                                                        '\u8D39\u7528\u5305\u542B\uFF1A'
+                                                    ),
+                                                    _react2.default.createElement(
+                                                        'h5',
+                                                        { className: 'services_container_right_body_body_sp' },
+                                                        '\u5BFC\u5E08\u8D39\u7528\u5F00\u5B66\u524D1\u5BF91\u54A8\u8BE2\u8F85\u5BFC\u3001\u5DE5\u4F5C\u574A\u5348\u9910\u8D39\u7528\u3001\u70E7\u70E4\u98DF\u6750\u548C\u5668\u68B0\u8D39\u7528\u3001\u4EA4\u901A\u8D39\u7528\u3001\u76F8\u5173\u573A\u5730\u79DF\u501F\u8D39\u7528\u3001\u5404\u535A\u7269\u9986\u95E8\u7968\u3001\u4F53\u9A8C\u9986\u95E8\u7968\u3001\u519C\u573A\u8D39\u7528\uFF08\u95E8\u7968\u548C\u7B2C\u4E00\u78C5\u6C34\u679C\u8D39\u7528\uFF09'
+                                                    ),
+                                                    _react2.default.createElement(
+                                                        'h5',
+                                                        null,
+                                                        '\u8D39\u7528\u4E0D\u5305\u542B\uFF1A'
+                                                    ),
+                                                    _react2.default.createElement(
+                                                        'h5',
+                                                        null,
+                                                        'Deep Cove\u79DF\u8239\u8D39\u7528\u3001\u5B66\u751F\u989D\u5916\u8D2D\u7269\u8D39\u7528'
+                                                    ),
+                                                    _react2.default.createElement(
+                                                        'h5',
+                                                        null,
+                                                        '\u6CE8\u610F\u4E8B\u9879\uFF1A'
+                                                    ),
+                                                    _react2.default.createElement(
+                                                        'h6',
+                                                        null,
+                                                        '\u5B66\u751F\u9700\u6839\u636E\u81EA\u8EAB\u4F53\u80FD\u6070\u5F53\u5730\u9009\u62E9\u6237\u5916\u6D3B\u52A8\u9879\u76EE'
+                                                    ),
+                                                    _react2.default.createElement(
+                                                        'h6',
+                                                        null,
+                                                        '\u6B65\u884C\u65F6\uFF0C\u5B66\u751F\u9700\u5C3D\u91CF\u907F\u514D\u56E0\u73A9\u624B\u673A\u800C\u5BFC\u81F4\u6389\u961F'
+                                                    ),
+                                                    _react2.default.createElement(
+                                                        'h6',
+                                                        null,
+                                                        '\u5BC4\u5BBF\u5BB6\u5EAD\u9700\u6309\u65F6\u63A5\u9001\u5B66\u751F\u5230\u6307\u5B9A\u5730\u70B9'
+                                                    )
+                                                )
+                                            )
+                                        )
+                                    )
+                                )
+                            )
+                        )
+                    ),
+                    _react2.default.createElement(
+                        'section',
+                        { id: 'contact', className: 'contact section' },
+                        _react2.default.createElement(
+                            'h2',
+                            { className: 'title' },
+                            'Contact Us'
+                        ),
+                        _react2.default.createElement(
+                            'div',
+                            { className: 'row contact-row' },
+                            _react2.default.createElement(
+                                'div',
+                                { className: 'col-sm-4 wechat-border' },
+                                _react2.default.createElement(
+                                    'div',
+                                    { className: 'InVia-card-content contactinfo' },
+                                    _react2.default.createElement(
+                                        'h3',
+                                        null,
+                                        _react2.default.createElement('img', { src: '../img/wechat.jpeg', className: 'wechatlogo' }),
+                                        '\u5FAE\u4FE1\u516C\u4F17\u53F7'
+                                    )
+                                ),
+                                _react2.default.createElement(
+                                    'div',
+                                    null,
+                                    _react2.default.createElement(
+                                        'a',
+                                        null,
+                                        _react2.default.createElement('img', { className: ' wechat-official-account', src: '../img/wechat-account.png' })
+                                    )
+                                )
+                            ),
+                            _react2.default.createElement(
+                                'div',
+                                { className: 'col-sm-4 wechat-border' },
+                                _react2.default.createElement(
+                                    'div',
+                                    { className: 'InVia-card-content contactinfo' },
+                                    _react2.default.createElement(
+                                        'h3',
+                                        null,
+                                        _react2.default.createElement('img', { src: '../img/wechat.jpeg', className: 'wechatlogo' }),
+                                        '\u5FAE\u4FE1\u5BA2\u670D'
+                                    )
+                                ),
+                                _react2.default.createElement(
+                                    'div',
+                                    null,
+                                    _react2.default.createElement(
+                                        'a',
+                                        null,
+                                        _react2.default.createElement('img', { className: ' wechat-customer-service', src: '../img/wechat-service.png' })
+                                    )
+                                )
+                            )
+                        ),
+                        _react2.default.createElement(
+                            'div',
+                            { className: 'row contact-row' },
+                            _react2.default.createElement(
+                                'div',
+                                { className: 'col-sm-4 wechat-border' },
+                                _react2.default.createElement(
+                                    'div',
+                                    { className: 'InVia-card' },
+                                    _react2.default.createElement(
+                                        'div',
+                                        { className: 'InVia-card-header' },
+                                        _react2.default.createElement('span', { className: '' })
+                                    ),
+                                    _react2.default.createElement(
+                                        'div',
+                                        { className: 'InVia-card-content contactinfo' },
+                                        _react2.default.createElement(
+                                            'h3',
+                                            null,
+                                            'Address'
+                                        ),
+                                        _react2.default.createElement(
+                                            'p',
+                                            null,
+                                            '8766 McKim Way Unit 2015, Richmond, BC, Canada'
+                                        )
+                                    )
+                                )
+                            ),
+                            _react2.default.createElement(
+                                'div',
+                                { className: 'col-sm-4 wechat-border' },
+                                _react2.default.createElement(
+                                    'div',
+                                    { className: 'InVia-card' },
+                                    _react2.default.createElement('div', { className: 'InVia-card-header' }),
+                                    _react2.default.createElement(
+                                        'div',
+                                        { className: 'InVia-card-content contactinfo' },
+                                        _react2.default.createElement(
+                                            'h3',
+                                            null,
+                                            'Email'
+                                        ),
+                                        _react2.default.createElement(
+                                            'p',
+                                            null,
+                                            'invia.edu@gmail.com'
+                                        )
+                                    )
                                 )
                             )
                         )
