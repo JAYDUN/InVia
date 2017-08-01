@@ -79,7 +79,7 @@ html,body,section{
     height:100%;
 }
 .section{
-    padding: 100px 0;
+    padding: 50px 0;
 }
 .title{
     position: relative;
@@ -182,7 +182,6 @@ html,body,section{
 @media screen and (max-width:770px){
 
 
-
     .intro h3{
         font-size:22px;
     }
@@ -191,6 +190,22 @@ html,body,section{
         margin:0 auto;
     }
     .aboutbtn1{
+        margin-top:-50px;
+    }
+    .index-services-mobile{
+        width:100%;
+    }
+    .index-services-mobile-header{
+        text-align:center;
+    }
+    .index-services-mobile-top{
+        width:100%;
+        padding-right:0px;
+    }
+    .index-services-mobile-bot{
+        width:100%;
+        padding-left:0px;
+        margin-bottom:-150px;
         margin-top:-50px;
     }
 }

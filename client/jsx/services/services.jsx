@@ -28,18 +28,18 @@ class Services extends React.Component {
                 <section  className="about services-section">
                     <div className="container">
                         <div className="row clearfix">
-                            <div className="col-md-12 column services_subcontainer">
+                            <div className="col-md-12 column services_subcontainer services_subcontainer_mobile">
                                 <div className="row clearfix">
-                                    <div className="col-md-5 column services_container_left">
+                                    <div className="col-md-5 column services_container_left  services_container_left_mobile">
 
                                     </div>
-                                    <div className="col-md-5 column services_container_right">
-                                        <div className="services_container_right_header">
+                                    <div className="col-md-5 column services_container_right  services_container_right_mobile">
+                                        <div className="services_container_right_header services_container_right_header_mobile">
                                             <h3>新留学生开学预备班</h3>
                                             {/*<h5>初来乍到</h5>*/}
                                         </div>
                                         <div className="services_container_right_body">
-                                            <div className="services_container_right_body_left">
+                                            <div className="services_container_right_body_left services_container_right_body_left_mobile">
                                                 <div className="services_container_right_body_header">
                                                     <h4>1.1 出国前远程服务与问题解答</h4>
 
@@ -56,7 +56,7 @@ class Services extends React.Component {
 
                                                 </div>
                                             </div>
-                                            <div className="services_container_right_body_left">
+                                            <div className="services_container_right_body_left services_container_right_body_left_mobile">
                                                 <div className="services_container_right_body_header">
                                                     <h4>1.2 预备班活动出发前家访</h4>
 
@@ -85,13 +85,13 @@ class Services extends React.Component {
                 <section  className="about services-section">
                     <div className="container">
                         <div className="row clearfix">
-                            <div className="col-md-12 column services_subcontainer">
+                            <div className="col-md-12 column services_subcontainer services_subcontainer_mobile">
                                 <div className="row clearfix">
-                                    <div className="col-md-6 column services_container_left activities-1-left">
+                                    <div className="col-md-6 column services_container_left activities-1-left services_container_left_mobile">
 
                                     </div>
-                                    <div className="col-md-6 column services_container_right activities-right">
-                                        <div className="services_container_right_header">
+                                    <div className="col-md-6 column services_container_right activities-right services_container_right_mobile">
+                                        <div className="services_container_right_header services_container_right_header_mobile">
                                             <h3>新留学生开学预备班</h3>
                                             <h4>1.3 预备班行程表</h4>
                                         </div>
@@ -122,13 +122,13 @@ class Services extends React.Component {
                 <section  className="about services-section">
                     <div className="container">
                         <div className="row clearfix">
-                            <div className="col-md-12 column services_subcontainer">
+                            <div className="col-md-12 column services_subcontainer services_subcontainer_mobile">
                                 <div className="row clearfix">
-                                    <div className="col-md-6 column services_container_left activities-2-left">
+                                    <div className="col-md-6 column services_container_left activities-2-left  services_container_left_mobile">
 
                                     </div>
-                                    <div className="col-md-6 column services_container_right activities-right">
-                                        <div className="services_container_right_header">
+                                    <div className="col-md-6 column services_container_right activities-right services_container_right_mobile">
+                                        <div className="services_container_right_header services_container_right_header_mobile">
                                             <h3>新留学生开学预备班</h3>
                                             <h4>1.3 预备班行程表</h4>
                                         </div>
@@ -164,13 +164,13 @@ class Services extends React.Component {
                 <section  className="about services-section">
                 <div className="container">
                     <div className="row clearfix">
-                        <div className="col-md-12 column services_subcontainer">
+                        <div className="col-md-12 column services_subcontainer  services_subcontainer_mobile">
                             <div className="row clearfix">
-                                <div className="col-md-6 column services_container_left activities-3-left">
+                                <div className="col-md-6 column services_container_left activities-3-left  services_container_left_mobile">
 
                                 </div>
-                                <div className="col-md-6 column services_container_right activities-right">
-                                    <div className="services_container_right_header">
+                                <div className="col-md-6 column services_container_right activities-right services_container_right_mobile">
+                                    <div className="services_container_right_header services_container_right_header_mobile">
                                         <h3>新留学生开学预备班</h3>
                                         <h4>1.3 预备班行程表</h4>
                                     </div>
@@ -201,13 +201,13 @@ class Services extends React.Component {
                 <section  className="about services-section">
                 <div className="container">
                     <div className="row clearfix">
-                        <div className="col-md-12 column services_subcontainer">
+                        <div className="col-md-12 column services_subcontainer  services_subcontainer_mobile">
                             <div className="row clearfix">
-                                <div className="col-md-6 column services_container_left activities-4-left">
+                                <div className="col-md-6 column services_container_left activities-4-left services_container_left_mobile">
 
                                 </div>
-                                <div className="col-md-6 column services_container_right activities-right">
-                                    <div className="services_container_right_header">
+                                <div className="col-md-6 column services_container_right activities-right services_container_right_mobile">
+                                    <div className="services_container_right_header services_container_right_header_mobile">
                                         <h3>新留学生开学预备班</h3>
                                         <h4>1.3 预备班行程表</h4>
                                     </div>
@@ -245,13 +245,13 @@ class Services extends React.Component {
                 <section  className="about services-section">
                     <div className="container">
                         <div className="row clearfix">
-                            <div className="col-md-12 column services_subcontainer">
+                            <div className="col-md-12 column services_subcontainer services_subcontainer_mobile">
                                 <div className="row clearfix">
-                                    <div className="col-md-6 column services_container_left activities-5-left">
+                                    <div className="col-md-6 column services_container_left activities-5-left services_container_left_mobile">
 
                                     </div>
-                                    <div className="col-md-6 column services_container_right activities-right">
-                                        <div className="services_container_right_header">
+                                    <div className="col-md-6 column services_container_right activities-right  services_container_right_mobile">
+                                        <div className="services_container_right_header services_container_right_header_mobile">
                                             <h3>新留学生开学预备班</h3>
                                             <h4>1.3 预备班行程表</h4>
                                         </div>
@@ -279,13 +279,13 @@ class Services extends React.Component {
                 <section  className="about services-section">
                     <div className="container">
                         <div className="row clearfix">
-                            <div className="col-md-12 column services_subcontainer">
+                            <div className="col-md-12 column services_subcontainer services_subcontainer_mobile">
                                 <div className="row clearfix">
-                                    <div className="col-md-6 column services_container_left activities-6-left">
+                                    <div className="col-md-6 column services_container_left activities-6-left services_container_left_mobile">
 
                                     </div>
-                                    <div className="col-md-6 column services_container_right activities-right">
-                                        <div className="services_container_right_header">
+                                    <div className="col-md-6 column services_container_right activities-right services_container_right_mobile">
+                                        <div className="services_container_right_header services_container_right_header_mobile">
                                             <h3>新留学生开学预备班</h3>
                                             <h4>1.3 预备班行程表</h4>
                                         </div>
@@ -314,12 +314,12 @@ class Services extends React.Component {
                 <section  className="about services-section">
                     <div className="container">
                         <div className="row clearfix">
-                            <div className="col-md-12 column services_subcontainer">
+                            <div className="col-md-12 column services_subcontainer services_subcontainer_mobile">
                                 <div className="row clearfix">
-                                    <div className="col-md-6 column services_container_left activities-7-left">
+                                    <div className="col-md-6 column services_container_left activities-7-left services_container_left_mobile">
 
                                     </div>
-                                    <div className="col-md-6 column services_container_right activities-right">
+                                    <div className="col-md-6 column services_container_right activities-right  services_container_right_mobile">
                                         <div className="services_container_right_header">
                                             <h3>新留学生开学预备班</h3>
                                             <h4>1.4 导师开学前咨询辅导</h4>

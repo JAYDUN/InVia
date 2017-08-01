@@ -22019,13 +22019,13 @@ var Index = function (_React$Component) {
                                 ),
                                 _react2.default.createElement(
                                     'div',
-                                    { className: 'index-services-content' },
+                                    { className: 'index-services-content index-services-mobile' },
                                     _react2.default.createElement(
                                         'div',
-                                        { className: 'index-services-content-left' },
+                                        { className: 'index-services-content-left index-services-mobile-top' },
                                         _react2.default.createElement(
                                             'div',
-                                            { className: 'index-services-content-left-header' },
+                                            { className: 'index-services-content-left-header index-services-mobile-header' },
                                             _react2.default.createElement(
                                                 'h3',
                                                 null,
@@ -22039,7 +22039,7 @@ var Index = function (_React$Component) {
                                         ),
                                         _react2.default.createElement(
                                             'div',
-                                            { className: 'index-services-content-left-body' },
+                                            { className: 'index-services-content-left-body ' },
                                             _react2.default.createElement(
                                                 'p',
                                                 null,
@@ -22059,10 +22059,10 @@ var Index = function (_React$Component) {
                                     ),
                                     _react2.default.createElement(
                                         'div',
-                                        { className: 'index-services-content-right' },
+                                        { className: 'index-services-content-right index-services-mobile-bot' },
                                         _react2.default.createElement(
                                             'div',
-                                            { className: 'index-services-content-right-body' },
+                                            { className: 'index-services-content-right-body index-services-mobile' },
                                             _react2.default.createElement('img', { className: 'index-services-content-right-body-img', src: '../img/index-service.png' })
                                         )
                                     )
@@ -22790,17 +22790,17 @@ var Services = function (_React$Component) {
                                 { className: 'row clearfix' },
                                 _react2.default.createElement(
                                     'div',
-                                    { className: 'col-md-12 column services_subcontainer' },
+                                    { className: 'col-md-12 column services_subcontainer services_subcontainer_mobile' },
                                     _react2.default.createElement(
                                         'div',
                                         { className: 'row clearfix' },
-                                        _react2.default.createElement('div', { className: 'col-md-5 column services_container_left' }),
+                                        _react2.default.createElement('div', { className: 'col-md-5 column services_container_left  services_container_left_mobile' }),
                                         _react2.default.createElement(
                                             'div',
-                                            { className: 'col-md-5 column services_container_right' },
+                                            { className: 'col-md-5 column services_container_right  services_container_right_mobile' },
                                             _react2.default.createElement(
                                                 'div',
-                                                { className: 'services_container_right_header' },
+                                                { className: 'services_container_right_header services_container_right_header_mobile' },
                                                 _react2.default.createElement(
                                                     'h3',
                                                     null,
@@ -22812,7 +22812,7 @@ var Services = function (_React$Component) {
                                                 { className: 'services_container_right_body' },
                                                 _react2.default.createElement(
                                                     'div',
-                                                    { className: 'services_container_right_body_left' },
+                                                    { className: 'services_container_right_body_left services_container_right_body_left_mobile' },
                                                     _react2.default.createElement(
                                                         'div',
                                                         { className: 'services_container_right_body_header' },
@@ -22869,7 +22869,7 @@ var Services = function (_React$Component) {
                                                 ),
                                                 _react2.default.createElement(
                                                     'div',
-                                                    { className: 'services_container_right_body_left' },
+                                                    { className: 'services_container_right_body_left services_container_right_body_left_mobile' },
                                                     _react2.default.createElement(
                                                         'div',
                                                         { className: 'services_container_right_body_header' },
@@ -22942,17 +22942,17 @@ var Services = function (_React$Component) {
                                 { className: 'row clearfix' },
                                 _react2.default.createElement(
                                     'div',
-                                    { className: 'col-md-12 column services_subcontainer' },
+                                    { className: 'col-md-12 column services_subcontainer services_subcontainer_mobile' },
                                     _react2.default.createElement(
                                         'div',
                                         { className: 'row clearfix' },
-                                        _react2.default.createElement('div', { className: 'col-md-6 column services_container_left activities-1-left' }),
+                                        _react2.default.createElement('div', { className: 'col-md-6 column services_container_left activities-1-left services_container_left_mobile' }),
                                         _react2.default.createElement(
                                             'div',
-                                            { className: 'col-md-6 column services_container_right activities-right' },
+                                            { className: 'col-md-6 column services_container_right activities-right services_container_right_mobile' },
                                             _react2.default.createElement(
                                                 'div',
-                                                { className: 'services_container_right_header' },
+                                                { className: 'services_container_right_header services_container_right_header_mobile' },
                                                 _react2.default.createElement(
                                                     'h3',
                                                     null,
@@ -23038,17 +23038,17 @@ var Services = function (_React$Component) {
                                 { className: 'row clearfix' },
                                 _react2.default.createElement(
                                     'div',
-                                    { className: 'col-md-12 column services_subcontainer' },
+                                    { className: 'col-md-12 column services_subcontainer services_subcontainer_mobile' },
                                     _react2.default.createElement(
                                         'div',
                                         { className: 'row clearfix' },
-                                        _react2.default.createElement('div', { className: 'col-md-6 column services_container_left activities-2-left' }),
+                                        _react2.default.createElement('div', { className: 'col-md-6 column services_container_left activities-2-left  services_container_left_mobile' }),
                                         _react2.default.createElement(
                                             'div',
-                                            { className: 'col-md-6 column services_container_right activities-right' },
+                                            { className: 'col-md-6 column services_container_right activities-right services_container_right_mobile' },
                                             _react2.default.createElement(
                                                 'div',
-                                                { className: 'services_container_right_header' },
+                                                { className: 'services_container_right_header services_container_right_header_mobile' },
                                                 _react2.default.createElement(
                                                     'h3',
                                                     null,
@@ -23144,17 +23144,17 @@ var Services = function (_React$Component) {
                                 { className: 'row clearfix' },
                                 _react2.default.createElement(
                                     'div',
-                                    { className: 'col-md-12 column services_subcontainer' },
+                                    { className: 'col-md-12 column services_subcontainer  services_subcontainer_mobile' },
                                     _react2.default.createElement(
                                         'div',
                                         { className: 'row clearfix' },
-                                        _react2.default.createElement('div', { className: 'col-md-6 column services_container_left activities-3-left' }),
+                                        _react2.default.createElement('div', { className: 'col-md-6 column services_container_left activities-3-left  services_container_left_mobile' }),
                                         _react2.default.createElement(
                                             'div',
-                                            { className: 'col-md-6 column services_container_right activities-right' },
+                                            { className: 'col-md-6 column services_container_right activities-right services_container_right_mobile' },
                                             _react2.default.createElement(
                                                 'div',
-                                                { className: 'services_container_right_header' },
+                                                { className: 'services_container_right_header services_container_right_header_mobile' },
                                                 _react2.default.createElement(
                                                     'h3',
                                                     null,
@@ -23245,17 +23245,17 @@ var Services = function (_React$Component) {
                                 { className: 'row clearfix' },
                                 _react2.default.createElement(
                                     'div',
-                                    { className: 'col-md-12 column services_subcontainer' },
+                                    { className: 'col-md-12 column services_subcontainer  services_subcontainer_mobile' },
                                     _react2.default.createElement(
                                         'div',
                                         { className: 'row clearfix' },
-                                        _react2.default.createElement('div', { className: 'col-md-6 column services_container_left activities-4-left' }),
+                                        _react2.default.createElement('div', { className: 'col-md-6 column services_container_left activities-4-left services_container_left_mobile' }),
                                         _react2.default.createElement(
                                             'div',
-                                            { className: 'col-md-6 column services_container_right activities-right' },
+                                            { className: 'col-md-6 column services_container_right activities-right services_container_right_mobile' },
                                             _react2.default.createElement(
                                                 'div',
-                                                { className: 'services_container_right_header' },
+                                                { className: 'services_container_right_header services_container_right_header_mobile' },
                                                 _react2.default.createElement(
                                                     'h3',
                                                     null,
@@ -23341,17 +23341,17 @@ var Services = function (_React$Component) {
                                 { className: 'row clearfix' },
                                 _react2.default.createElement(
                                     'div',
-                                    { className: 'col-md-12 column services_subcontainer' },
+                                    { className: 'col-md-12 column services_subcontainer services_subcontainer_mobile' },
                                     _react2.default.createElement(
                                         'div',
                                         { className: 'row clearfix' },
-                                        _react2.default.createElement('div', { className: 'col-md-6 column services_container_left activities-5-left' }),
+                                        _react2.default.createElement('div', { className: 'col-md-6 column services_container_left activities-5-left services_container_left_mobile' }),
                                         _react2.default.createElement(
                                             'div',
-                                            { className: 'col-md-6 column services_container_right activities-right' },
+                                            { className: 'col-md-6 column services_container_right activities-right  services_container_right_mobile' },
                                             _react2.default.createElement(
                                                 'div',
-                                                { className: 'services_container_right_header' },
+                                                { className: 'services_container_right_header services_container_right_header_mobile' },
                                                 _react2.default.createElement(
                                                     'h3',
                                                     null,
@@ -23412,17 +23412,17 @@ var Services = function (_React$Component) {
                                 { className: 'row clearfix' },
                                 _react2.default.createElement(
                                     'div',
-                                    { className: 'col-md-12 column services_subcontainer' },
+                                    { className: 'col-md-12 column services_subcontainer services_subcontainer_mobile' },
                                     _react2.default.createElement(
                                         'div',
                                         { className: 'row clearfix' },
-                                        _react2.default.createElement('div', { className: 'col-md-6 column services_container_left activities-6-left' }),
+                                        _react2.default.createElement('div', { className: 'col-md-6 column services_container_left activities-6-left services_container_left_mobile' }),
                                         _react2.default.createElement(
                                             'div',
-                                            { className: 'col-md-6 column services_container_right activities-right' },
+                                            { className: 'col-md-6 column services_container_right activities-right services_container_right_mobile' },
                                             _react2.default.createElement(
                                                 'div',
-                                                { className: 'services_container_right_header' },
+                                                { className: 'services_container_right_header services_container_right_header_mobile' },
                                                 _react2.default.createElement(
                                                     'h3',
                                                     null,
@@ -23483,14 +23483,14 @@ var Services = function (_React$Component) {
                                 { className: 'row clearfix' },
                                 _react2.default.createElement(
                                     'div',
-                                    { className: 'col-md-12 column services_subcontainer' },
+                                    { className: 'col-md-12 column services_subcontainer services_subcontainer_mobile' },
                                     _react2.default.createElement(
                                         'div',
                                         { className: 'row clearfix' },
-                                        _react2.default.createElement('div', { className: 'col-md-6 column services_container_left activities-7-left' }),
+                                        _react2.default.createElement('div', { className: 'col-md-6 column services_container_left activities-7-left services_container_left_mobile' }),
                                         _react2.default.createElement(
                                             'div',
-                                            { className: 'col-md-6 column services_container_right activities-right' },
+                                            { className: 'col-md-6 column services_container_right activities-right  services_container_right_mobile' },
                                             _react2.default.createElement(
                                                 'div',
                                                 { className: 'services_container_right_header' },

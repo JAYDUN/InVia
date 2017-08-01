@@ -98,8 +98,7 @@
     margin-left: 25%;
     float:left;
     margin-top:0;
-    width: 100%;
-    /*width:100%;*/
+    width:100%;
     /*font-size: large;*/
     display:block;
     font-weight:bold;
@@ -176,4 +175,45 @@
 .activities-price{
     width: 100%;
     /*background-color: black;*/
+}
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:770px){
+
+    .services_subcontainer_mobile{
+        min-height:800px;
+    }
+
+    .services_container_left_mobile{
+        width:100%;
+        min-height:200px;
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+        border-bottom-left-radius: 0px;
+    }
+    .services_container_right_header_mobile{
+        text-align: center;
+        width:100%;
+        margin:0 auto;
+    }
+    .services_container_right_mobile{
+        width:100%;
+        word-wrap: break-word;
+    }
+    .services_container_right_body_left_mobile{
+        width:100%;
+    }
+    .services_container_right_body_body h5{
+        width:auto;
+    }
+    .services_container_right_body_body h6{
+        width:auto;
+    }
 }

@@ -68,16 +68,16 @@ class Index extends React.Component {
                         <div className="row">
                             <div className="col-sm-10 col-sm-offset-1 home_intro">
                                 <h2 className="title">知途服务</h2>
-                                <div className="index-services-content">
-                                    <div className="index-services-content-left">
-                                        <div className="index-services-content-left-header">
+                                <div className="index-services-content index-services-mobile">
+                                    <div className="index-services-content-left index-services-mobile-top">
+                                        <div className="index-services-content-left-header index-services-mobile-header">
                                             <h3>新留学生开学预备班</h3>
                                             {/*<h4>新留学生开学预备班</h4>*/}
                                         </div>
                                         <div className="divider">
                                             <span></span>
                                         </div>
-                                        <div className="index-services-content-left-body">
+                                        <div className="index-services-content-left-body ">
                                             <p>
                                                 In Via Head Start Program是专为第一次来加拿大读书的留学生提供抢先教育、为初来乍到的海外青少年留学生们量身打造一个快速了解北美文化和适应生活的服务。使留学生在开学前做好热身，提前了解大温地区的民俗文化、法律法规、对其所在学校、城市有一个初步的认识。
                                             </p>
@@ -87,8 +87,8 @@ class Index extends React.Component {
                                             </p>
                                         </div>
                                     </div>
-                                    <div className="index-services-content-right">
-                                        <div className="index-services-content-right-body">
+                                    <div className="index-services-content-right index-services-mobile-bot">
+                                        <div className="index-services-content-right-body index-services-mobile">
                                             <img className="index-services-content-right-body-img" src="../img/index-service.png"/>
 
                                         </div>
